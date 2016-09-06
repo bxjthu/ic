@@ -6,7 +6,7 @@ class: center, middle
 
 [曹东刚](mailto:caodg@pku.edu.cn)  
 
-http://sei.pku.edu.cn/~caodg/course/thinkcs
+http://sei.pku.edu.cn/~caodg/course/ic
 
 北京大学信息科学技术学院
 
