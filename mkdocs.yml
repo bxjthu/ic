@@ -1,0 +1,28 @@
+site_name: 计概B
+site_author: "Donggang Cao"
+site_description: "计算概论B(化学)"
+
+pages:
+- Home: index.md
+- Intro: intro.md
+- Schedule: schedule.md
+
+copyright: "&#169; <a href='http://sei.pku.edu.cn/~caodg/'>Donggang Cao</a>"
+
+include_next_prev: False
+
+theme: flatly
+
+theme_dir: custom_theme
+
+extra_css:
+ - css/extra.css
+
+extra:
+  site_url: "http://sei.pku.edu.cn/~caodg" 
+
+markdown_extensions:
+ - nl2br
+ - admonition
+
+dev_addr: 127.0.0.1:9090
