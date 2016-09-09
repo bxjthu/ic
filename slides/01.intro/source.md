@@ -330,7 +330,7 @@ Alan Turing(1912-1954): 英国开创性的计算机科学家, 数学家, 逻辑�
 
 .ored[进展]:  
 
-- Kurt G&ouml;del: The Incomplete Theorem G&ouml;, del-Herbrand general recursive functions
+- Kurt G&ouml;del: The Incomplete Theorem, G&ouml;del-Herbrand general recursive functions
 
 - Alonzo Church: &lambda;-calculus 
 
@@ -628,7 +628,7 @@ computer)
 
 .left-column[
 
-1997年, 世界围棋冠军 Kasparov 与 IBM DeepBlue 6 局比赛, DeepBlue 3.5:2.5 获胜
+1997年, 国际象棋冠军 Kasparov 与 IBM DeepBlue 6 局比赛, DeepBlue 3.5:2.5 获胜
 
 <img src="images/kasparov_breakout.jpg" width=350 style="margin: 0px 0px">
 
@@ -644,7 +644,7 @@ DeepBlue 主要是通过大规模并行暴力计算的方法, 可每秒评估200
 
 ## 计算机 vs 人
 
-2016年, Google AlphaGo 与 李世石 5番棋大战, AlphaGo 4:1 获胜.
+2016年, Google AlphaGo 与 围棋世界冠军 李世石 5番棋大战, AlphaGo 4:1 获胜.
 
 AlphaGo 使用了机器学习和树搜索技术, 经过了大量的训练.
 
