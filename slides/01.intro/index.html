@@ -14,6 +14,40 @@
         font-weight: normal;
       }
       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
+      /* Two-column layout */
+      .left-column {
+        width: 50%;
+        float: left;
+      }
+      .right-column {
+        width: 49%;
+        float: right;
+        padding-top: 0em;
+        margin-top: 0em;
+        text-align: left;
+      }    
+
+      .r-side {
+        width: 20%;
+        float: right
+      }
+
+      .l-side {
+        width: 80%;
+        float: left
+      }
+
+      .red { color: #fa0000; }
+      .ored { color: #ff4500; }
+      .footnote {  
+        position:absolute;
+        bottom: 1em;
+        left: 14em;
+        font-size: 0.7em;
+       }
+      .cite {font-size: 0.8em; color:#33AA99;font-style: italic}
+      .strike {color:salmon;text-decoration:line-through}
     </style>
   </head>
   <body>
@@ -22,15 +56,31 @@
     </textarea>
     -->
     <script src="../js/remark.min.js"> </script>
+    <script
+        src="http://cdn.bootcss.com/mathjax/2.6.1/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured" type="text/javascript"></script>
+    <script src="http://cdn.bootcss.com/mermaid/6.0.0/mermaid.min.js"></script>
+    <link rel="stylesheet" href="http://cdn.bootcss.com/mermaid/6.0.0/mermaid.css">
     <script>
         var slideshow = remark.create({
-              sourceUrl: 'source.md'
+            sourceUrl: 'source.md',
+            highlightLines: true,
           });
+
+      // Setup MathJax
+      MathJax.Hub.Config({
+          tex2jax: {
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+          }
+      });
+      MathJax.Hub.Queue(function() {
+          $(MathJax.Hub.getAllJax()).map(function(index, elem) {
+              return(elem.SourceElement());
+          }).parent().addClass('has-jax');
+      });
+
+      MathJax.Hub.Configured();
    </script>
-   <!--
-    <script type="text/javascript" src="http://cdn.bootcss.com/mermaid/0.5.8/mermaid.min.js"></script>
-    <link rel="stylesheet" href="http://cdn.bootcss.com/mermaid/0.5.8/mermaid.min.css">
-    <script>mermaid.initialize({startOnLoad:true});</script>
-    -->
+   <script>mermaid.initialize({startOnLoad:true, cloneCssStyles: true});</script>
+
   </body>
 </html>

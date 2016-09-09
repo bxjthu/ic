@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="199.79" width="800.39" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <linearGradient id="linearGradient2954" y2="546.93" gradientUnits="userSpaceOnUse" x2="368.78" gradientTransform="matrix(2.01311,0,0,2.01311,-277.33581,-718.983)" y1="546.93" x1="332.72">
+   <stop id="stop2854" stop-color="#5EC215" offset="0"/>
+   <stop id="stop2856" stop-color="#C5EFA7" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-28.5754, -316.165)">
+  <g id="g2956">
+   <rect id="rect2777" stroke-linejoin="round" style="stroke-dasharray:none;" stroke-dashoffset="0" transform="matrix(0,1,-1,0,0,0)" height="198.29" width="99.077" stroke="#1e3069" stroke-linecap="round" stroke-miterlimit="4" y="-527.9" x="316.94" stroke-width="1.5" fill="#46a2ff"/>
+   <text id="text2783" font-weight="normal" xml:space="preserve" transform="scale(0.99270078,1.0073529)" font-style="normal" font-size="24.33500862px" y="343.82123" x="349.08173" font-family="DejaVu Sans" fill="#000000"><tspan id="tspan2785" font-size="24.00000191px" y="343.82123" x="349.08173" font-weight="bold">PROCESSOR</tspan></text>
+  </g>
+  <g id="g2948">
+   <rect id="rect2775" stroke-linejoin="round" style="stroke-dasharray:none;" stroke-dashoffset="0" height="198.29" width="97.636" stroke="#1e3069" stroke-linecap="round" stroke-miterlimit="4" y="316.92" x="231.98" stroke-width="1.5" fill="#62d3bd"/>
+   <text id="text2808" font-weight="normal" xml:space="preserve" transform="matrix(0,-1,1,0,0,0)" font-style="normal" font-size="24.15732002px" y="293.66034" x="-479.50159" font-family="DejaVu Sans" fill="#000000"><tspan id="tspan2810" font-size="36px" y="293.66034" x="-479.50159" font-weight="bold">INPUT</tspan></text>
+  </g>
+  <g id="g2972">
+   <rect id="rect2781" stroke-linejoin="round" style="stroke-dasharray:none;" stroke-dashoffset="0" height="198.29" width="97.636" stroke="#1e3069" stroke-linecap="round" stroke-miterlimit="4" y="316.92" x="527.93" stroke-width="1.5" fill="#49e0eb"/>
+   <text id="text2812" font-weight="normal" xml:space="preserve" transform="matrix(0,-1,1,0,0,0)" font-style="normal" font-size="24.15732002px" y="589.8515" x="-499.13635" font-family="DejaVu Sans" fill="#000000"><tspan id="tspan2814" font-size="36px" y="589.8515" x="-499.13635" font-weight="bold">OUTPUT</tspan></text>
+  </g>
+  <g id="g2964">
+   <rect id="rect2779" stroke-linejoin="round" style="stroke-dasharray:none;" stroke-dashoffset="0" transform="matrix(0,1,-1,0,0,0)" height="198.29" width="98.998" stroke="#1e3069" stroke-linecap="round" stroke-miterlimit="4" y="-527.79" x="416.21" stroke-width="1.5" fill="#78aac7"/>
+   <text id="text2816" font-weight="normal" xml:space="preserve" transform="scale(0.99270078,1.0073529)" font-style="normal" font-size="24.33500862px" y="471.04599" x="368.2338" font-family="DejaVu Sans" fill="#000000"><tspan id="tspan2818" font-size="24.00000191px" y="471.04599" x="368.2338" font-weight="bold">STORAGE</tspan></text>
+  </g>
+  <g id="g2940">
+   <path id="path1872" stroke-linejoin="miter" style="stroke-dasharray:none;" d="m31.575,384.82,0,62.629,135.08,0,0,32.894,63.797-64.277-63.797-64.277,0,33.031-135.08,0z" fill-rule="evenodd" stroke="#13983d" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1.9999994" fill="#71f312"/>
+   <text id="text2762" font-weight="normal" xml:space="preserve" font-size="24px" font-style="normal" y="423.34241" x="50.768124" font-family="DejaVu Sans" fill="#000000"><tspan id="tspan2764" font-size="20px" y="423.34241" x="50.768124" font-weight="bold">INFORMATION</tspan></text>
+  </g>
+  <path id="path2766" stroke-linejoin="miter" style="stroke-dasharray:none;" d="m309.3,359.66,0,13.66,30.68,0,0,7.1747,14.49-14.02-14.49-14.02,0,7.2046-30.68,0z" fill-rule="evenodd" stroke="#13983d" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1" fill="#5ec215"/>
+  <path id="path2768" stroke-linejoin="miter" style="stroke-dasharray:none;" d="m393.47,371.21,0,21.73,47.941,0,0,11.413,22.642-22.302-22.642-22.302,0,11.461-47.941,0z" fill-rule="evenodd" stroke="#13983d" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1" fill="url(#linearGradient2954)"/>
+  <path id="path2806" stroke-linejoin="miter" style="stroke-dasharray:none;" d="m505.44,359.66,0,13.66,30.68,0,0,7.1747,14.49-14.02-14.49-14.02,0,7.2046-30.68,0z" fill-rule="evenodd" stroke="#13983d" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1" fill="#c5efa7"/>
+  <path id="path2840" stroke-linejoin="miter" style="stroke-dasharray:none;" d="m350.22,428.35-5.5213,0,11.198,12.137,11.445-12.137-5.769,0,0-25.41,5.9626,0-11.651-12.001-11.651,12.001,5.9875,0,0,25.41z" fill-rule="evenodd" stroke="#13983d" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1" fill="#5ec215"/>
+  <path id="path2842" stroke-linejoin="miter" style="stroke-dasharray:none;" d="m495.99,428.35-5.5213,0,11.198,12.137,11.445-12.137-5.769,0,0-25.41,5.9626,0-11.651-12.001-11.651,12.001,5.9875,0,0,25.41z" fill-rule="evenodd" stroke="#13983d" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="1" fill="#c5efa7"/>
+  <g id="g2980">
+   <path id="path2867" stroke-linejoin="miter" style="stroke-dasharray:none;" d="m627.09,384.82,0,62.629,135.08,0,0,32.894,63.797-64.278-63.797-64.278,0,33.032-135.08,0z" fill-rule="evenodd" stroke="#13983d" stroke-linecap="butt" stroke-miterlimit="4" stroke-width="2.00000453" fill="#c5efa7"/>
+   <text id="text2869" font-weight="normal" xml:space="preserve" font-size="18px" font-style="normal" y="423.34241" x="646.28094" font-family="DejaVu Sans" fill="#000000"><tspan id="tspan2871" font-size="20px" y="423.34241" x="646.28094" font-weight="bold">INFORMATION</tspan></text>
+  </g>
+ </g>
+</svg>
