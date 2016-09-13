@@ -630,6 +630,10 @@ CPU 上的进程切换 (process, switch), 或上下文切换 (context switch), �
 ## GUI
 
 
-<img src="images/ubuntu.png" width=700 style="margin: 10px 50px">
+<img src="images/ubuntu.png" width=600 style="margin: 10px 10px">
 
 ---
+
+## BUI
+
+<img src="images/bui.png" width=700 style="margin: 10px 10px">
