@@ -51,8 +51,7 @@
 
 - 计算机科学导论, Behrouz A. Forouzan, 机械工业出版社
 - 像计算机科学家一样思考Python，Allen B.Downey 著；赵普明 译，人民邮电出版社
-- Think Like a Programmer: An Introduction to Creative Problem Solving,
-  V. Anton Spraul, No Starch Press, 2012
+- Think Like a Programmer: An Introduction to Creative Problem Solving, V. Anton Spraul, No Starch Press, 2012
 - Introduction to Computation and Programming Using Python, Revised and Expanded Edition, John V. Guttag, The MIT Press
 
 ----
