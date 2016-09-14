@@ -390,8 +390,13 @@ boolean g(program)
 
 ## 停机问题证明的方法: 对角线方法
 
+.left-column[
+<img src="images/geb_en.gif" width=260 style="margin: 10px 10px">
+]
 
-<img src="images/geb.jpg" width=300 style="margin: 10px 100px">
+.right-column[
+<img src="images/geb.jpg" width=280 style="margin: 10px 10px">
+]
 
 ---
 
