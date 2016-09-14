@@ -260,6 +260,13 @@ Augusta Ada King, Countess of Lovelace (1815-52): 数学家, Babbage研究分析
 
 ---
 
+## Ada 的算法笔记
+
+<img src="images/Diagram_for_the_computation_of_Bernoulli_numbers.jpg" width=700 style="margin: 0px 0px">
+
+
+---
+
 ## The Electromechanical Age: 1840 - 1940.
 
 The Beginnings of **Telecommunication**
