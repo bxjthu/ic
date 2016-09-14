@@ -57,8 +57,8 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 ### 课堂学习
 
-- 计算机科学导论 12 学时
-- Python程序设计 36 学时
+- 计算机科学导论 15 学时
+- Python程序设计 33 学时
 
 ### 上机实习
 
@@ -693,7 +693,7 @@ From wikipedia:
 A chemical computer, also called reaction-diffusion computer, BZ
 computer (stands for Belousov–Zhabotinsky computer) or gooware
 computer is an unconventional computer based on a semi-solid
-chemical ``soup'' where data are represented by varying
+chemical "soup" where data are represented by varying
 concentrations of chemicals.
 
 The computations are performed by
