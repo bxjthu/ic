@@ -388,6 +388,13 @@ boolean g(program)
 
 ---
 
+## 停机问题证明的方法: 对角线方法
+
+
+<img src="images/geb.jpg" width=300 style="margin: 10px 100px">
+
+---
+
 ## 图灵测试与人工智能(Artifical Intelligence)
 
 .footnote[Alan Turing, **Computing Machinery and Intelligence**, Mind, 1950]
