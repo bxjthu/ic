@@ -21,11 +21,11 @@
 
 助教:
 
-- 刘沛东 (lpd1995 AT 126.com )
+- <a href=="http://www.unias.org/trac/docklet/chrome/site/liupeidong.png">刘沛东</a> (lpd1995 AT 126.com )
 
-- 钟业弘 (zhongyh AT pku.edu.cn )
+- <a href=="http://www.unias.org/trac/docklet/chrome/site/zhongyehong.png">钟业弘</a> (zhongyh AT pku.edu.cn )
 
-- 马俊明 (mjm520 AT pku.edu.cn )
+- <a href="http://www.unias.org/trac/docklet/chrome/site/majm.jpg">马俊明</a> (mjm520 AT pku.edu.cn )
 
 
 实验平台:
