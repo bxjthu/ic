@@ -503,7 +503,7 @@ $ ./hello
 
 - DVD-ROM: 容量 4.7GB 以上
 
-- Blue-Ray: 
+- Blu-Ray: 25GB 以上
 
 ---
 
