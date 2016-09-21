@@ -149,7 +149,7 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 ### 图像分辨率
 
-每英尺的像素数目, 以PPI(Pixels per inch)为单位, 也常常表示为每个方向上的
+每英寸的像素数目, 以PPI(Pixels per inch)为单位, 也常常表示为每个方向上的
 像素数量, 如 640x480 像素 
 
 ### 输出分辨率
