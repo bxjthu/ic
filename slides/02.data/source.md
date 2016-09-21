@@ -57,9 +57,8 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 - 需要多少位(bit)来表示一个符号取决于该语言使用的符号的数量
 
-<hr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**符号数目**&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;**位模式的长度**
+**符号数目**| **位模式的长度**
 :------: |  :----------:
 2 | 1  
 4 | 2 
@@ -139,6 +138,62 @@ http://sei.pku.edu.cn/~caodg/course/ic
 ## 彩色位图图形
 
 <img src="images/rgbbitmap.png" width=750 style="margin: 20px 0px">
+
+---
+
+## 像素, 分辨率
+
+### 像素(pixel)
+
+图像显示的基本单位
+
+### 图像分辨率
+
+每英尺的像素数目, 以PPI(Pixels per inch)为单位, 也常常表示为每个方向上的
+像素数量, 如 640x480 像素 
+
+### 输出分辨率
+
+设备输出图像时, 每英寸可产生的点数DPI(Dots per inch). 数码照片打印一般是200DPI
+
+
+---
+
+## 像素, 分辨率与输出尺寸
+
+数码相机像素 | 最大分辨率照片 | 以200dpi分辨率输出 | 以300dpi分辨率输出 
+--- | --- | --- | ---
+50万    | 800×600   |  | 
+80万    | 1024×768  | 5”（3.5×5英寸）  |
+130万   | 1280×960  | 6”（4×6英寸）    | 
+200万   | 1600×1200 | 8”（6×8英寸)     | 5”（3.5×5英寸） 
+310万   | 2048×1536 | 10”（8×10寸）    | 7”（5×7英寸） 
+500万   | 2560×1920 | 12”（10×12英寸） | 8”（6×8英寸） 
+800万   | 3264×2488 | 16”（12×16英寸） | 10”（8×10寸） 
+1100万  | 4080×2720 | 20”（16×20英寸） | 12”（10×12英寸） 
+1400万  | 4536×3024 | 24”（18×24英寸） | 14”（11×14英寸） 
+
+---
+
+## 显示分辨率(Display resolution)
+
+<img src="images/Vector_Video_Standards8.svg" width=850 style="margin: 00px -50px">
+
+---
+
+## 常见显示分辨率及用户比例(Dec 2015)
+
+Standard | Aspect ratio | Width (px) | Height (px) | % of Steam users| % of web users 
+--- | --- | --- | --- | --- | ---
+XGA  | 4:3  | 1024 | 768 | 2.05 | 7.49
+WXGA | 16:9 | 1280 | 720 | 1.33 | 1.96
+WXGA | 16:10| 1280 | 800 | 2.00 | 6.12
+HD   |~16:9 | 1366 | 768 | 26.47| 30.05
+HD+  | 16:9 | 1600 | 900 | 6.95 | 5.99
+FHD  | 16:9 | 1920 |1080 | 35.15| 13.69
+WQHD | 16:9 | 2560 |1440 | 1.28 | 1.10
+UHD(4K) | 16:9 | 3840 | 2160 |  0.07 | n/a
+UHD(8K) | 16:9 | 7680 | 4320 |  2.92 | n/a
 
 ---
 
@@ -319,15 +374,12 @@ http://sei.pku.edu.cn/~caodg/course/ic
 ## 不同的无符号整数存储示例
 
 
-10 进制 | &nbsp;&nbsp;&nbsp;&nbsp;| 8-bit 存储| &nbsp;&nbsp;&nbsp;&nbsp;|  16-bit 存储 
-----:|----|:--------| ----| :---------
-7 | | 00000111 | | 0000000000000111  
-||||
-234 | | 11101010 | |0000000011101010 
-||||
-24760 | | overflow | |0110000010111000 
-||||
-1245678 | | overflow | | overflow
+10 进制 | 8-bit 存储|  16-bit 存储 
+----:|:--------| :---------
+7 | 00000111 | 0000000000000111  
+234 | 11101010 | 0000000011101010 
+24760  | overflow  |0110000010111000 
+1245678  | overflow  | overflow
 
 ---
 
@@ -343,11 +395,11 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 原码表示范围
 
-Bits number | &nbsp;&nbsp;&nbsp;&nbsp;| Range 
-:----: | ---- | :----:
-8 | | `\( - 127 \thicksim -0 \quad +0 \thicksim + 127 \)`
-16 | | `\( - 32767 \thicksim -0 \quad +0 \thicksim + 32767 \)`
-32 | | `\( -2147483647 \thicksim -0 \quad +0 \thicksim + 2147483647 \)`
+Bits number |  Range 
+:----: | :----:
+8 |  `\( - 127 \thicksim -0 \quad +0 \thicksim + 127 \)`
+16 |  `\( - 32767 \thicksim -0 \quad +0 \thicksim + 32767 \)`
+32 |  `\( -2147483647 \thicksim -0 \quad +0 \thicksim + 2147483647 \)`
 
 ---
 
@@ -498,9 +550,7 @@ Bits number | &nbsp;&nbsp;&nbsp;&nbsp;| Range
 
 .left-column[
 
-&nbsp;
-
-十进制 | &nbsp;&nbsp;无符号&nbsp;&nbsp; |&nbsp;&nbsp; 原码&nbsp;&nbsp; | &nbsp;&nbsp;反码&nbsp;&nbsp; | &nbsp;&nbsp;补码&nbsp;&nbsp;  
+十进制 | 无符号 | 原码 | 反码 | 补码  
 :---: | :---: | :---: | :---: | :---:
 +8 | 1000 | N/A | N/A | N/A 
 +7 | 0111 | 0111 | 0111 | 0111 
@@ -515,9 +565,7 @@ Bits number | &nbsp;&nbsp;&nbsp;&nbsp;| Range
 
 .right-column[
 
-&nbsp;
-
-十进制 | &nbsp;&nbsp;无符号&nbsp;&nbsp; |&nbsp;&nbsp; 原码&nbsp;&nbsp; | &nbsp;&nbsp;反码&nbsp;&nbsp; | &nbsp;&nbsp;补码&nbsp;&nbsp;  
+十进制 | 无符号 | 原码 | 反码 | 补码  
 :---: | :---: | :---: | :---: | :---:
 (-)0 | N/A | 1000 | 1111 | N/A 
 -1 | N/A | 1001 | 1110 | 1111 
@@ -571,7 +619,8 @@ Bits number | &nbsp;&nbsp;&nbsp;&nbsp;| Range
 
 ## 指数表示: Excess-N 系统
 
-- Excess-N 系统用无符号数表示正数和负数, 主要用于存储小数的指数值
+Excess-N 系统用无符号数表示正数和负数, 主要用于存储小数的指数值, 目的是
+便于让计算机像比较二进制补码整数一样的方式比较二进制浮点数
 
 - N 被称为biasing value, 用于数据转换.
     - 将整数与正数 N 相加
@@ -587,7 +636,28 @@ Bits number | &nbsp;&nbsp;&nbsp;&nbsp;| Range
 
 ---
 
-## IEEE 浮点数表示标准
+## IEEE 754 浮点数表示标准 
 
+** 单精度: Excess-127 ** 
 
-<img src="images/ieee.png" width=700 style="margin: 10px 0px">
+<img src="images/IEEE_754_Single_Floating_Point_Format.svg" width=800 style="margin: 10px 0px">
+
+** 双精度: Excess-1023 **
+
+<img src="images/IEEE_754_Double_Floating_Point_Format.svg" width=800 style="margin: 10px 0px">
+
+---
+
+## IEEE 754 单精度表示的示例
+
+ Sign  |  Exp | Frac |  Value
+--- | --- | --- | ---
+*   | 0000 0000 | 000 0000 0000 0000 0000 0000 | ±0.0
+0   | 0111 1111 | 000 0000 0000 0000 0000 0000 | 1.0
+1   | 0111 1111 | 000 0000 0000 0000 0000 0000 | −1.0
+*   | 0000 0000 | 000 0000 0000 0000 0000 0001 | `\(±2^{−23} × 2^{−126} \)`
+*   | 0000 0000 | 111 1111 1111 1111 1111 1111 | `\(±(1−2^{−23}) × 2^{−126}\)`
+*   | 1111 1111 | 000 0000 0000 0000 0000 0000 | ±∞
+*   | 1111 1111 | non zero    | NaN
+*   | 0000 0001 | 000 0000 0000 0000 0000 0000 | `\(±2^{−126}\)` 
+*   | 1111 1110 | 111 1111 1111 1111 1111 1111 | `\(±(2−2^{−23}) × 2^{127}\)`
