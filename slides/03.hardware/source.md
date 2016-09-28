@@ -476,7 +476,7 @@ $ ./hello
 
 ---
 
-## 硬盘
+## 机械硬盘
 
 - 构成: 盘面、磁道、扇区、柱面
 
@@ -484,8 +484,19 @@ $ ./hello
 
 - 性能: 转速、寻道时间、传送时间、缓存
 
+- 寿命: 3-5年
+
 
 <img src="images/harddisk.jpg" width=600 style="margin: 20px 50px">
+
+---
+
+## 固态硬盘, Solid State Drive
+
+基于非易失性内存存储技术, 速度快, 噪音小, 耐用, 节能, 价格相对高
+
+
+<img src="images/hardssd.jpg" width=700 style="margin: 20px 20px">
 
 ---
 
