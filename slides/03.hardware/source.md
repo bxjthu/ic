@@ -43,7 +43,7 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 ## 计算机系统的多层次结构
 
-<img src="images/sixlayer.png" width=500 style="margin: 10px 0px">
+<img src="images/sixlayer.svg" width=700 style="margin: 10px 0px">
 
 ---
 
@@ -65,7 +65,7 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 以控制器为中心
 
-<img src="images/vn1.png" width=700 style="margin: 10px 0px">
+<img src="images/vn1.svg" width=700 style="margin: 10px 0px">
 
 ---
 
@@ -73,7 +73,7 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 以存储器为中心
 
-<img src="images/vn2.png" width=700 style="margin: 10px 0px">
+<img src="images/vn2.svg" width=700 style="margin: 10px 0px">
 
 ---
 
@@ -83,13 +83,13 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 - 现代 CPU 主要包括三个部分: 算术逻辑单元 ALU、寄存器组、控制单元
 
-<img src="images/cpu.png" width=400 style="margin: 10px 100px">
+<img src="images/cpu.svg" width=500 style="margin: 20px 100px">
 
 ---
 
 ## CPU 内部结构
 
-<img src="images/cpu-in.png" width=600 style="margin: 10px 50px">
+<img src="images/cpu-in.svg" width=650 style="margin: 00px 50px">
 
 ---
 
@@ -181,7 +181,7 @@ ALU: CPU 中的主要部件, 进行算术运算, 逻辑运算与移位运算
 - 寄存器类型: 数据寄存器、指令寄存器、程序计数器、状态寄存器等
 
 
-<img src="images/cpu.png" width=350 style="margin: 10px 100px">
+<img src="images/cpu.svg" width=350 style="margin: 10px 100px">
 
 ---
 
@@ -200,7 +200,7 @@ ALU: CPU 中的主要部件, 进行算术运算, 逻辑运算与移位运算
      
 .right-column[
 
-<img src="images/memaddrspace.png" width=350 style="margin: 00px 50px">
+<img src="images/memaddrspace.svg" width=350 style="margin: 00px 50px">
 
 ]
 
@@ -257,7 +257,7 @@ Zettabyte | (Z) | Sextillion  |  `\(2^{70}\)`
 CPU 需要高速的存储器, 但是寄存器成本太高. 因此采取了层次结构的方案, 分别适应对速度、容量的需求
 
 
-<img src="images/memlayer.png" width=600 style="margin: 50px 50px">
+<img src="images/memlayer.svg" width=700 style="margin: 50px 50px">
 
 ---
 
@@ -305,7 +305,7 @@ CPU 和主存间通过总线相连接. 总线由多根线组成, 每根线传输
 - 控制总线: 线数取决于 CPU 控制命令的总数
 
 
-<img src="images/bus.png" width=600 style="margin: 10px 50px">
+<img src="images/bus.svg" width=700 style="margin: 10px 50px">
 
 ---
 
@@ -326,7 +326,7 @@ CPU 利用重复的机器周期来执行程序中的指令
 ]
 
 .right-column[
-<img src="images/instruction.png" width=300 style="margin: 00px 10px">
+<img src="images/instruction.svg" width=300 style="margin: 00px 50px">
 ]
 
 ---
@@ -334,32 +334,32 @@ CPU 利用重复的机器周期来执行程序中的指令
 ## 一个加法运算示例: 初始状态
 
 
-<img src="images/case0.png" width=600 style="margin: 50px 50px">
+<img src="images/case0.svg" width=700 style="margin: 10px 10px">
 
 ---
 
 ## 一个加法运算示例: 第 1 条指令
 
 
-<img src="images/case1.png" width=600 style="margin: 50px 50px">
+<img src="images/case1.svg" width=700 style="margin: 10px 10px">
 
 ---
 
 ## 一个加法运算示例: 第 2 条指令
 
-<img src="images/case2.png" width=600 style="margin: 50px 50px">
+<img src="images/case2.svg" width=700 style="margin: 10px 10px">
 
 ---
 
 ## 一个加法运算示例: 第 3 条指令
 
-<img src="images/case3.png" width=600 style="margin: 50px 50px">
+<img src="images/case3.svg" width=700 style="margin: 10px 10px">
 
 ---
 
 ## 一个加法运算示例: 第 4 条指令
 
-<img src="images/case4.png" width=600 style="margin: 50px 50px">
+<img src="images/case4.svg" width=700 style="margin: 10px 10px">
 
 ---
 
@@ -383,25 +383,25 @@ $ ./hello
 
 ## 运行 hello 程序的计算机系统
 
-<img src="images/s1.png" width=600 style="margin: 10px 50px">
+<img src="images/s1.svg" width=600 style="margin: 10px 50px">
 
 ---
 
 ## 从键盘输入 hello 命令执行
 
-<img src="images/s2.png" width=600 style="margin: 10px 50px">
+<img src="images/s2.svg" width=600 style="margin: 10px 50px">
 
 ---
 
 ## 将 hello 程序调入内存
 
-<img src="images/s3.png" width=600 style="margin: 10px 50px">
+<img src="images/s3.svg" width=600 style="margin: 10px 50px">
 
 ---
 
 ## hello 程序执行
 
-<img src="images/s4.png" width=600 style="margin: 10px 50px">
+<img src="images/s4.svg" width=600 style="margin: 10px 50px">
 
 ---
 
@@ -594,23 +594,23 @@ I/O 设备比 CPU 慢的多, 因此 CPU 必须和 I/O 设备同步
 
 ## 程序控制输入输出: CPU等待I/O 设备
 
-<img src="images/programio.png" width=300 style="margin: 10px 50px">
+<img src="images/program.svg" width=700 style="margin: 10px 10px">
 
 ---
 
-### 中断控制输入输出
+## 中断控制输入输出
 
 I/O 设备准备好时通知 (interrupt)CPU, CPU 不必一直等待, 可以做别的工作
 
-<img src="images/interruptio.png" width=400 style="margin: 10px 50px">
+<img src="images/interrupt.svg" width=700 style="margin: 10px 10px">
 
 ---
 
-### 直接存储器存取, DMA
+## 直接存储器存取, DMA
 
 用于高速 I/O 设备和内存间的大数据传输, 数据传输不通过 CPU
 
-<img src="images/dma.png" width=600 style="margin: 10px 50px">
+<img src="images/dma.svg" width=700 style="margin: 10px 10px">
 
 ---
 
