@@ -493,7 +493,7 @@ $ ./hello
 
 ## 固态硬盘, Solid State Drive
 
-基于非易失性内存存储技术, 速度快, 噪音小, 耐用, 节能, 价格相对高
+基于非易失性内存存储技术, 速度快, 可靠, 噪音小, 耐用, 节能, 价格相对高
 
 
 <img src="images/hardssd.jpg" width=700 style="margin: 20px 20px">
