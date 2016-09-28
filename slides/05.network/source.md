@@ -28,7 +28,7 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 ## 网络规模分类
 
-<img src="images/scale.png" width=700 style="margin: 00px 50px">
+<img src="images/scale.svg" width=700 style="margin: 00px 50px">
 
 ---
 
@@ -43,7 +43,7 @@ http://sei.pku.edu.cn/~caodg/course/ic
     - 环形 (Ring): 如 IBM 令牌环 IEEE 802.5
 
 
-<img src="images/lan.png" width=700 style="margin: 00px 50px">
+<img src="images/lan.svg" width=700 style="margin: 00px 50px">
 
 ---
 
@@ -65,7 +65,7 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 - 覆盖一个城市, 典型如有线电视网
 
-<img src="images/man.png" width=700 style="margin: 00px 50px">
+<img src="images/man.svg" width=700 style="margin: 00px 50px">
 
 ---
 
@@ -75,7 +75,7 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 - 主机、交换设备 (路由器)、传输线
 
-<img src="images/wan.png" width=700 style="margin: 00px 50px">
+<img src="images/wan.svg" width=700 style="margin: 00px 50px">
 
 ---
 
@@ -108,20 +108,20 @@ http://sei.pku.edu.cn/~caodg/course/ic
 ## 网络交互需要一套协议
 
 
-<img src="images/translate.png" width=600 style="margin: 00px 50px">
+<img src="images/translate.svg" width=600 style="margin: 00px 50px">
 
 ---
 
 ## 信息流经协议栈
 
-<img src="images/flow.png" width=700 style="margin: 00px 50px">
+<img src="images/flow.svg" width=700 style="margin: 00px 50px">
 
 ---
 
 ## OSI 7层协议栈参考模型
 
 
-<img src="images/osi.png" width=550 style="margin: 00px 50px">
+<img src="images/osi.svg" width=550 style="margin: 00px 50px">
 
 ---
 
@@ -146,7 +146,7 @@ Public switched telephone network
 
 - 电话网络的发展历史
 
-<img src="images/pstntopo.png" width=700 style="margin: 10px 50px">
+<img src="images/pstntopo.svg" width=700 style="margin: 10px 50px">
 
 ---
 
@@ -160,7 +160,7 @@ Public switched telephone network
 
 - 局和局之间通过干线连接, 数字信号
 
-<img src="images/pstn.png" width=700 style="margin: 10px 50px">
+<img src="images/pstn.svg" width=700 style="margin: 10px 50px">
 
 ---
 
@@ -170,7 +170,7 @@ Public switched telephone network
 
 - 在电路交换中, 用户独享一个通信电路, 可以保证服务质量, 但是利用率低, 价格贵
 
-<img src="images/circuit.png" width=700 style="margin: 20px 50px">
+<img src="images/circuit.svg" width=700 style="margin: 20px 50px">
 
 ---
 
@@ -179,7 +179,7 @@ Public switched telephone network
 调制解调器: Modem(modulator-demodulator), 数字信号/电话线路模拟信号转换
 
 
-<img src="images/modem.png" width=700 style="margin: 20px 50px">
+<img src="images/modem.svg" width=700 style="margin: 20px 50px">
 
 ---
 
@@ -197,7 +197,7 @@ ADSL, Asymmetric Digital Subscriber Line: 同时传输语音信号和数字信�
 
 ## ADSL宽带上网
 
-<img src="images/adsl.png" width=700 style="margin: 20px 50px">
+<img src="images/adsl.svg" width=700 style="margin: 20px 50px">
 
 
 ---
@@ -318,7 +318,7 @@ ADSL, Asymmetric Digital Subscriber Line: 同时传输语音信号和数字信�
     - UDP: 不可靠
 
 
-<img src="images/protocol.png" width=700 style="margin: 20px 50px">
+<img src="images/protocol.svg" width=700 style="margin: 20px 50px">
 
 ---
 
@@ -330,7 +330,7 @@ IP数据包在网络上分组传输
 
 - 线路利用率高, 但是服务质量难以保证
 
-<img src="images/storeforward.png" width=700 style="margin: 00px 50px">
+<img src="images/storeforward.svg" width=700 style="margin: 00px 50px">
 
 ---
 
@@ -361,7 +361,7 @@ IP数据包在网络上分组传输
 - IP 地址由 4 个字节(IPv4) 组成, 便于记忆写成 10 进制形式
 
 
-<img src="images/ip.png" width=700 style="margin: 50px 50px">
+<img src="images/ip.svg" width=700 style="margin: 50px 50px">
 
 ---
 
@@ -374,7 +374,7 @@ IP数据包在网络上分组传输
 - 网络号的分配被严格控制
 
 
-<img src="images/ipaddr.png" width=700 style="margin: 10px 50px">
+<img src="images/ipaddr.svg" width=700 style="margin: 10px 50px">
 
 ---
 
@@ -402,7 +402,7 @@ IP数据包在网络上分组传输
 A 或者 B 类网络作为一个单一网络太大了, 人们需要接入更 多的局域网 (子网)
 
 
-<img src="images/subnetwork.png" width=700 style="margin: 50px 50px">
+<img src="images/subnetwork.svg" width=700 style="margin: 50px 50px">
 
 ---
 
@@ -415,7 +415,7 @@ A 或者 B 类网络作为一个单一网络太大了, 人们需要接入更 多
 - 用子网掩码 (subnet mask) 表示网络号
 
 
-<img src="images/netmask.png" width=750 style="margin: 50px 00px">
+<img src="images/netmask.svg" width=750 style="margin: 20px 00px">
 
 
 ---
@@ -499,7 +499,7 @@ TCP (Transmission Control Protocol) 协议：传输控制协议，提供了一�
 - 服务器程序有公开的固定地址
 
 
-<img src="images/tcpport.png" width=700 style="margin: 20px 20px">
+<img src="images/tcpport.svg" width=600 style="margin: 20px 50px">
 
 ---
 
@@ -564,7 +564,7 @@ TCP (Transmission Control Protocol) 协议：传输控制协议，提供了一�
 ## 解析本地域名服务器管理的域名
 
 
-<img src="images/resolv.png" width=700 style="margin: 50px 00px">
+<img src="images/resolv.svg" width=700 style="margin: 50px 00px">
 
 ---
 
@@ -603,7 +603,7 @@ scheme  user infor  host  port              query      fragment
 ## 电子邮件 Email
 
 
-<img src="images/message.png" width=680 style="margin: 00px 50px">
+<img src="images/message.svg" width=680 style="margin: 00px 50px">
 
 ---
 
@@ -689,7 +689,7 @@ src="images/Malware_statics_2011-03-16-en.svg" width=450 style="margin: 00px 100
 
 - 具有传染性
 
-<img src="images/virus.png" width=700 style="margin: 10px 00px">
+<img src="images/virus.svg" width=700 style="margin: 10px 00px">
 
 
 ---
@@ -886,4 +886,3 @@ Botnet的主要构成: Command and Control, Zombie Computer
 
 - 不以 Administrator 权限操作计算机 
 
----
