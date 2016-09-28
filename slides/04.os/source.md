@@ -67,7 +67,7 @@ DVD 播放器 vs 操作系统
 
 ## 从两个角度认识操作系统
 
-<img src="images/ospos.png" width=300 style="margin: 00px 50px">
+<img src="images/ospos.svg" width=300 style="margin: 00px 150px">
 
 - 自上而下: 将操作系统当作 .ored[虚拟机]
 
@@ -114,7 +114,7 @@ DVD 播放器 vs 操作系统
 - 现今仍可见于 Unix, Linux, Windows 等操作系统
 
 
-<img src="images/batch.png" width=700 style="margin: 10px 00px">
+<img src="images/batch.svg" width=750 style="margin: 10px 00px">
 
 ---
 
@@ -139,7 +139,7 @@ CPU速度快, 时间非常昂贵, 而外设速度很低. 一个程序如果等�
 程序 A 和 B 在顺序执行的情况下
 
 
-<img src="images/sequent.png" width=700 style="margin: 10px 00px">
+<img src="images/sequent.svg" width=700 style="margin: 10px 00px">
 
 
 - CPU 利用率: 40/80 = 50% 
@@ -152,7 +152,7 @@ CPU速度快, 时间非常昂贵, 而外设速度很低. 一个程序如果等�
 
 程序 A 和 B 在同时执行的情况下
 
-<img src="images/parallel.png" width=700 style="margin: 10px 00px">
+<img src="images/parallel.svg" width=700 style="margin: 10px 00px">
 
 - CPU 利用率: 40/45 = 89% 
 
@@ -360,7 +360,7 @@ Mr. CS 的儿子突然跑进来求助: 他被蜜蜂蜇了 (需要紧急处理)
 ## 进程状态
 
 
-<img src="images/process.png" width=550 style="margin: 00px 50px">
+<img src="images/process.svg" width=850 style="margin: 00px -50px">
 
 ---
 
@@ -379,15 +379,6 @@ Mr. CS 的儿子突然跑进来求助: 他被蜜蜂蜇了 (需要紧急处理)
 - 工作目录、打开文件的描述符 
 
 - ...
-
----
-
-## 进程切换
-
-CPU 上的进程切换 (process, switch), 或上下文切换 (context switch), 是耗时操作
-
-
-<img src="images/queue.png" width=700 style="margin: 10px 00px">
 
 ---
 
@@ -491,7 +482,7 @@ CPU 上的进程切换 (process, switch), 或上下文切换 (context switch), �
 
 内存被划分为不定长分区, 每个分区容纳一个程序
 
-<img src="images/partitioning.png" width=600 style="margin: 20px 50px">
+<img src="images/partitioning.svg" width=650 style="margin: 20px 00px">
 
 ---
 
@@ -501,7 +492,7 @@ CPU 上的进程切换 (process, switch), 或上下文切换 (context switch), �
 
 - 程序在内存中不必连续存放
 
-<img src="images/paging.png" width=400 style="margin: 10px 50px">
+<img src="images/paging.svg" width=650 style="margin: 10px 20px">
 
 ---
 
@@ -524,7 +515,7 @@ CPU 上的进程切换 (process, switch), 或上下文切换 (context switch), �
 保留在内存, 哪些保存在磁盘.
 
 
-<img src="images/virtualmem.png" width=400 style="margin: 10px 50px">
+<img src="images/virtualmem.svg" width=600 style="margin: 10px 50px">
 
 ---
 
