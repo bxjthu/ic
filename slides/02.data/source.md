@@ -28,7 +28,7 @@ http://sei.pku.edu.cn/~caodg/course/ic
 ## 常见的数据类型
 
 
-<img src="images/data.png" height=180 style="margin: 100px 0px">
+<img src="images/data.svg" height=200 style="margin: 100px 0px">
 
 
 ---
@@ -43,9 +43,8 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 - 字节(byte): 长度为8的位模式称为字节
 
-&nbsp;
 
-<img src="images/bitstream.png" width=750 style="margin: 0px 0px">
+<img src="images/bitstream.svg" width=750 style="margin: 20px 0px">
 
 ---
 
@@ -79,7 +78,7 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 - 只适合表达英语, 不支持其它语种
 
-<img src="images/byte.png" style="margin: 10px 50px">
+<img src="images/byte.svg" width=700 style="margin: 10px 10px">
 
 ---
 
@@ -131,13 +130,13 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 ## 黑白位图图形
 
-<img src="images/blackbitmap.png" width=750 style="margin: 20px 0px">
+<img src="images/blackbitmap.svg" width=750 style="margin: 50px 0px">
 
 ---
 
 ## 彩色位图图形
 
-<img src="images/rgbbitmap.png" width=750 style="margin: 20px 0px">
+<img src="images/rgbbitmap.svg" width=750 style="margin: 20px 0px">
 
 ---
 
@@ -253,7 +252,7 @@ UHD(8K) | 16:9 | 7680 | 4320 |  2.92 | n/a
 
 16 进制整数和二进制整数的转化
 
-<img src="images/hex.png" width=700 style="margin: 0px 0px">
+<img src="images/hex.svg" width=750 style="margin: 0px 0px">
 
 ---
 
@@ -273,7 +272,7 @@ UHD(8K) | 16:9 | 7680 | 4320 |  2.92 | n/a
 
 8进制整数和二进制整数的转化
 
-<img src="images/oct.png" width=700 style="margin: 0px 0px">
+<img src="images/oct.svg" width=750 style="margin: 0px 0px">
 
 ---
 
@@ -303,7 +302,7 @@ UHD(8K) | 16:9 | 7680 | 4320 |  2.92 | n/a
 
 规则: 将每个二进制位乘以权值后相加
 
-<img src="images/bitnumber.png" width=700 style="margin: 10px 0px">
+<img src="images/bitnumber.svg" width=750 style="margin: 10px 0px">
 
 --
 
@@ -320,7 +319,7 @@ UHD(8K) | 16:9 | 7680 | 4320 |  2.92 | n/a
 
 例: 将十进制 **45** 转化为二进制
 
-<img src="images/dec2bit.png" width=700 style="margin: 10px 0px">
+<img src="images/dec2bit.svg" width=750 style="margin: 10px 0px">
 
 ---
 
@@ -596,7 +595,7 @@ Bits number |  Range
 
 十进制小数转换为二进制: 反复乘2
 
-<img src="images/fraction.png" width=700 style="margin: 10px 0px">
+<img src="images/fraction.svg" width=750 style="margin: 20px 0px">
 
 ---
 
