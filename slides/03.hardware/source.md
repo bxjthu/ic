@@ -285,11 +285,10 @@ CPU 需要高速的存储器, 但是寄存器成本太高. 因此采取了层次
 ## 多级缓存
 
 - L1 Cache: 第一级, CPU 内
-
 - L2 Cache: 在 L1 Cache 和内存间
 
 
-<img src="images/cachemem.png" width=400 style="margin: 10px 100px">
+<img src="images/Cache,hierarchy-example.svg" width=650 style="margin: 00px 30px">
 
 ---
 
@@ -457,7 +456,7 @@ $ ./hello
 
 - 按照存储介质的不同可分为
 
-    - 磁介质存储设备
+    - 磁存储设备
 
     - 光存储设备
 
@@ -465,18 +464,11 @@ $ ./hello
 
 ---
 
-## 磁存储设备
+## 磁存储设备, 机械硬盘
+
+.left-column[
 
 - 使用磁性来存储数据为, 有磁性表示 1, 没有磁性表示 0 
-
-- 常见设备: 硬盘、软盘、磁带等
-
-
-<img src="images/magnetic.png" width=500 style="margin: 20px 50px">
-
----
-
-## 机械硬盘
 
 - 构成: 盘面、磁道、扇区、柱面
 
@@ -485,9 +477,11 @@ $ ./hello
 - 性能: 转速、寻道时间、传送时间、缓存
 
 - 寿命: 3-5年
+]
 
-
-<img src="images/harddisk.jpg" width=600 style="margin: 20px 50px">
+.right-column[
+<img src="images/Cylinder_Head_Sector.svg" width=500 style="margin: -50px 00px">
+]
 
 ---
 
@@ -532,17 +526,21 @@ CPU 是电子设备, I/O 设备多是机电、光学设备, 他们之间需要I/
 
 ## 主板, motherboard
 
+.left-column[
 计算机的主要印刷电路板, 上有若干插槽, 用于集成CPU、内存、各种外设等
+]
 
 
-<img src="images/mboard.png" width=600 style="margin: 10px 50px">
+.right-column[
+<img src="images/Motherboard_diagram.svg" width=420 style="margin: -160px 00px">
+]
 
 ---
 
-## Intel 850 芯片组连接示意图
+## Acer E360 Socket 939 主板
 
 
-<img src="images/intel850.png" width=400 style="margin: 00px 50px">
+<img src="images/Acer_E360_mboard.png" width=750 style="margin: -30px 00px">
 
 ---
 
