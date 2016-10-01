@@ -244,13 +244,13 @@ PC机、嵌入式系统等
 
 .left-column[
 
-<img src="images/symbian.png" height=40 style="margin: 0px 50px">
+<img src="images/Symbian_logo.svg" height=50 style="margin: 0px 50px">
 
 ]
 
 .right-column[
 
-<img src="images/blackberry.png" height=40 style="margin: 0px 50px">
+<img src="images/Blackberry_Logo.svg" height=50 style="margin: 0px 50px">
 
 ]
 
@@ -258,18 +258,19 @@ PC机、嵌入式系统等
 
 .left-column[
 
-<img src="images/iOS.png" height=60 style="margin: 0px 50px">
+<img src="images/Apple_iOS_new.svg" height=60 style="margin: 0px 50px">
 
 ]
 
 .right-column[
-<img src="images/android_robot.png" height=60 style="margin: 0px 50px">
+<img src="images/Android_robot.svg" height=80 style="margin: 0px 50px">
 ]
 
 &nbsp;
-&nbsp;
 
-<img src="images/Windows_Phone_7.png" height=40 style="margin: 0px 50px">
+.left-column[
+<img src="images/Windows_Phone_8_logo.svg" height=50 style="margin: 0px 50px">
+]
 
 ---
 
