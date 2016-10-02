@@ -3,14 +3,15 @@
 
 !!! note ""
     请用支持 HTML5 的浏览器如 Chrome 打开课件，并保证有互联网连接
+    请自行用[DeckTape](https://github.com/astefanutti/decktape)生成PDF版本课件
 
 
 序号 | 时间  |  内容 | 课件  | 作业
 -- | --- | ---------- | -- | ----
 01 | 2016年9月14日 | 课程介绍 | [HTML5](01.intro/index.html) [PDF](http://sei.pku.edu.cn/~caodg/course/files/ic/01.intro.pdf) | [作业1](assign/index.html#ihw1)
 02 | 2016年9月21日 | 数据及其表示 |  [HTML5](02.data/index.html) [PDF](http://sei.pku.edu.cn/~caodg/course/files/ic/02.data.pdf) | [作业2](assign/index.html#ihw2)
-03 | 2016年9月28日 | 计算机硬件 |  [HTML5](03.hardware/index.html) [PDF](http://sei.pku.edu.cn/~caodg/course/files/ic/03.hardware.pdf)| [作业3](assign/index.html#ihw3)
-04 | 2016年10月12日 | 操作系统 |  HTML5 |
+03 | 2016年9月28日 | 计算机硬件 |  [HTML5](03.hardware/index.html) | [作业3](assign/index.html#ihw3)
+04 | 2016年10月12日 | 操作系统 |  [HTML5](04.os/index.html) |
 05 | 2016年10月19日 | 网络 | HTML5 |
 06 | 2016年10月26日 | Hello Python | HTML5 |
 07 | 2016年11月2日 |  | HTML5 | 
