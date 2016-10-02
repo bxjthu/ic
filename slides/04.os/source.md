@@ -207,29 +207,149 @@ Unix 是 1960 年代末贝尔实验室开发的一种一流操作系统, 应用�
 
 - 众多分支, Unix 战争, POSIX
 
-    - BSD 系列: Solaris, Mac OS X, FreeBSD 
+    - BSD 系列: Mac OS X, Darwin, FreeBSD, OpenBSD, NetBSD
 
-    - System V 系列: HU-UX, IBM AIX, SGI IRIX
+    - System V 系列: Solaris, HU-UX, IBM AIX, SGI IRIX
 
 ---
 
-## 典型 OS: GNU/Linux
+<img src="images/Unix_timeline.svg" width=950 style="margin: -50px -90px">
+
+---
+
+<img src="images/Unix_history-simple.svg" width=900 style="margin: 00px -80px">
+
+---
+
+## Berkeley Software Distribution (BSD)
+
+BSD原指 UC Berkeley 1977 - 1995年间开发和发布的Unix操作系统. 现指任何BSD
+衍生的类Unix操作系统.
+
+.left-column[
+- Berkeley Unix: 4.3BSD, 4.4BSD
+
+- 386BSD
+
+    - FreeBSD, OpenBSD, NetBSD
+
+    - Apple Darwin
+]
+
+.right-column[
+<img src="images/Bsd_daemon.jpg" style="margin: 00px 50px">
+]
+
+&nbsp;
+
+<table id="mytb">
+<tr>
+<td>
+<img src="images/Freebsd_logo.svg" height=100 style="margin: 00px 00px">
+</td>
+<td>
+<img src="images/OpenBSD_Logo.svg" height=110 style="margin: 00px 00px">
+</td>
+<td>
+<img src="images/NetBSD.svg" height=120 style="margin: 00px 20px">
+</td>
+<td>
+<img src="images/Hexley_the_Platypus.svg" height=120 style="margin: 00px 00px">
+</td>
+</tr>
+</table>
+
+
+---
+
+## 典型 OS: Linux
 
 ```txt
-Linux 是一种类 Unix(Unix-like) 系统, 近年迅速发展, 主要用于工作站、
+Linux 是一种类 Unix(Unix-like) 系统, 近年迅速发展, 广泛用于工作站、
 
-PC机、嵌入式系统等
+PC机、手机、嵌入式系统等各种环境
 ```
 
-- 1980 年代自由软件基金会决定启动 GNU(GNU is Not Unix) 项目, 开发一个完全免费的 Unix 系统
 
-- 1991年, 大二学生Linus Torvalds 发布了Linux内核的第一个版本 
+- Unix 的版权问题, Minix 的版权问题, GNU项目进展问题
 
-- GNU 工具 + Linux 内核 = GNU/Linux 操作系统 
+- 1991年, 大二学生Linus Torvalds 发布了Linux内核的第一个版本, 公开源码
 
 - Unix 的所有技术特征 + 开放源码
 
-- 众多的 Linux 发行版本, 全部开源: Debian, Fedora, SUSE, Ubuntu, RedFlag ...
+- 有众多Linux发行版, 众多Linux 社区
+
+.left-column[
+<img src="images/Linus_Torvalds.jpg" height=200 style="margin: -10px 100px">
+]
+
+.right-column[
+<img src="images/Tux.svg" height=220 style="margin: -10px 100px">
+]
+
+---
+
+## 众多的 Linux 发行版本
+
+- Debian系: Debian, Ubuntu, Knoppix, Linux Mint, ...
+
+<table id="mytb">
+<tr>
+<td align="center" valign="bottom">
+<img src="images/debian_logo.svg" height="80" style="margin:00px 00px">
+</td>
+<td align="center" valign="bottom">
+<img src="images/ubuntu_logo.svg" height="80" style="margin:00px 50px">
+</td>
+<td align="center" valign="bottom">
+<img src="images/Knoppix_logo.svg" height="80" style="margin:00px 50px">
+</td>
+<td align="center" valign="bottom">
+<img src="images/Linux_Mint_Official_Logo.svg" height="80" style="margin:00px 50px">
+</td>
+</tr>
+</table>
+
+- Red Hat系: Red Hat Enterprise Linux, Fedora, CentOS, Scientific Linux, ...
+
+<table id="mytb">
+<tr>
+<td align="center" valign="bottom">
+<img src="images/RedHat.svg" height="60" style="margin:00px 00px">
+</td>
+<td align="center" valign="bottom">
+<img src="images/Fedora_logo_and_wordmark.svg" height="60" style="margin:00px 10px">
+</td>
+<td align="center" valign="bottom">
+<img src="images/Centos-logo-light.svg" height="60" style="margin:00px 10px">
+</td>
+<td align="center" valign="bottom">
+<img src="images/Scientific_Linux_logo_and_wordmark.svg" height="80" style="margin:00px 30px">
+</td>
+</tr>
+</table>
+
+- Slackware, Gentoo, OpenSUSE, Arch, Chromium OS, ...
+
+<table id="mytb">
+<tr>
+<td align="center" valign="bottom">
+<img src="images/Slackware_logo.svg" height="80" style="margin:00px 00px">
+</td>
+<td align="center" valign="bottom">
+<img src="images/gentoo-logo.svg" height="90" style="margin:-10px 10px">
+</td>
+<td align="center" valign="bottom">
+<img src="images/opensuse_logo.svg" height="80" style="margin:00px -10px">
+</td>
+<td align="center" valign="bottom">
+<img src="images/archlinux_logo.svg" height="60" style="margin:10px 0px">
+</td>
+<td align="center" valign="bottom">
+<img src="images/Chromium_11_Wordmark_Logo.svg" height="60" style="margin:10px -10px">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -237,40 +357,162 @@ PC机、嵌入式系统等
 
 <img src="images/Ubuntu_15.10_with_Firefox_and_Nautilus_open.png" width=750 style="margin: 10px 00px">
 
+---
+
+## Linux 的广泛适用性
+
+<img src="images/Linux_kernel_ubiquity.svg" width=850 style="margin: 00px -50px">
 
 ---
+
+## Linux UI 工具栈
+
+<img
+src="images/Free_and_open-source-software_display_servers_and_UI_toolkits.svg" width=850 style="margin: 00px -50px">
+
+---
+
+
 
 ## 典型 OS: 智能终端 OS
 
 .left-column[
 
-<img src="images/Symbian_logo.svg" height=50 style="margin: 0px 50px">
+<img src="images/Symbian_logo.svg" height=50 style="margin: 00px 00px">
 
 ]
 
 .right-column[
 
-<img src="images/Blackberry_Logo.svg" height=50 style="margin: 0px 50px">
+<img src="images/Blackberry_Logo.svg" height=50 style="margin: 00px 00px">
 
 ]
 
-&nbsp;
 
 .left-column[
 
-<img src="images/Apple_iOS_new.svg" height=60 style="margin: 0px 50px">
+<img src="images/Apple_iOS_new.svg" height=60 style="margin: 10px 00px">
 
 ]
 
 .right-column[
-<img src="images/Android_robot.svg" height=80 style="margin: 0px 50px">
+<img src="images/Android_robot.svg" height=80 style="margin: 10px 00px">
 ]
 
-&nbsp;
 
 .left-column[
-<img src="images/Windows_Phone_8_logo.svg" height=50 style="margin: 0px 50px">
+<img src="images/Windows_Phone_8_logo.svg" height=50 style="margin: 10px 00px">
 ]
+
+---
+
+## 操作系统份额: 全球设备预装
+
+Source | Year | Android | iOS/OS X | Windows | Others 
+-------|------|---------|----------|---------|-------
+Gartner|2015  | 1.3 billion (54%) | 297 million (12.3%) | 283 million (11.7%) | ~520 million (21.6%)
+Gartner|2014  | 48.61%  | 11.04%   | 14.0%   | 26.34%
+Gartner|2013  | 38.51%  | 10.12%   | 13.98%  | 37.41%
+Gartner|2012  | 22.8%   | 9.6%     | 15.62%  | 51.98%
+
+---
+
+## 操作系统份额: 分类统计
+
+Category | Source | Year | Linux | Unix | Windows 
+-------|------|---------|----------|---------|-------
+Desktop, laptop | Net Applications |2016.7 | 2.33%  | 7.87% | 89.79%   
+Smartphone | StatCounter |2016.5 | 64.89%  | 23.56% | 1.7%   
+Server | W3Techs | 2014.9 | 36.72% | 30.18% | 33.10%
+Supercomputer | TOP500 | 2016.6 | 99.79% | 0.21% | 0%
+Game Console | StatCounter | 2016.6 | 0% | 70.78% | 23.28%
+
+---
+
+## GNU(GNU is Not Unix), 开源运动
+
+Richard Matthew Stallman(RMS) 对软件知识产权保护制度不满, 提出自由软件
+(Free Software) 理念
+
+.left-column[
+- 1983年, RMS 启动 GNU项目, 开发一个自由的类Unix 系统
+
+    - 成果: gcc, glibc, coreutils; gdb, emacs, binutils, bash, gnome 
+
+    - GNU 内核(Hurb)开发进展缓慢
+
+    - Linux 内核 + GNU 工具 ➔ GNU/Linux 
+
+- 1989年, GNU General Public License (GPL)发布
+
+- 2015年, Debian GNU/HURD 2015 发布, 完整的 GNU OS 出现
+]
+
+.right-column[
+<img src="images/Heckert_GNU_white.svg" height=180 style="margin: -20px 00px">
+<img src="images/Gnulinux.svg" height=180 style="margin: -20px 0px">
+
+<img src="images/Richard_Stallman_by_gisleh_01.jpg" height=250 style="margin: 10px 50px">
+]
+
+---
+
+## *Free as in Freedom*
+
+.left-column[
+
+*Free as in Freedom: Richard Stallman's Crusade for Free Software*
+is a free book licensed under the GNU Free Documentation
+License about the life of Richard Stallman, written by Sam Williams and
+published by O'Reilly Media on March 1, 2002.
+
+- free to study the source code of the software they use
+
+- free to share the software with other people 
+
+- free to modify the behavior of the software
+
+- and free to publish their modified versions of the software
+]
+
+.right-column[
+<img src="images/Free_as_in_Freedom.jpeg" width=300 style="margin: 00px 50px">
+]
+
+
+---
+
+## Free as in Freedom 2.0: Free Softare, Free Society
+
+
+<img src="images/FreeSoftware2.jpg" width=700 style="margin: 10px 00px">
+
+---
+
+## 从自由软件, 到开源软件, 到开源运动
+
+- *Free Software* 的理念蕴含对抗现有知识产权保护制度, 很多厂商及黑客反对
+
+- IETF, FSF, X, Apache, Linux 等各种开放源码社区并存发展
+
+- 1998年开源社区峰会, 决定以 **`开源`** 作为黑客们的共同旗帜
+
+- 2005年之后, IBM, Google, Yahoo, Amazon 等商业公司大规模投入, 开源模式
+  深刻影响社会和产业的发展, 形成超越软件领域的开源运动
+
+
+<table id="mytb">
+
+<tr>
+<td>
+<img src="images/Opensource.svg" width=200 style="margin: 00px 00px">
+</td>
+<td>
+<img src="images/121212_2_OpenSwissKnife.png" width=500 style="margin: 0px 00px">
+</td>
+</tr>
+</table>
+
 
 ---
 
