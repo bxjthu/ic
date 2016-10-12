@@ -5,6 +5,8 @@ site_description: "计算概论B(化学)"
 pages:
 - Home: index.md
 - Intro: intro.md
+- Material: 
+    - Command Tools: cmd.md
 - Schedule: schedule.md
 - Assignment: assign.md
 
