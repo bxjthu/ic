@@ -49,7 +49,7 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 ## 操作系统能干什么 —2
 
-DVD 播放器 vs 操作系统
+DVD 播放器 `\(\Longrightarrow\)` 操作系统
 
 - DVD 驱动器  `\(\Longrightarrow\)` I/O 设备管理 
 
