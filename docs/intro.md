@@ -50,9 +50,15 @@
 -----------
 
 - 计算机科学导论, Behrouz A. Forouzan, 机械工业出版社
-- 像计算机科学家一样思考Python，Allen B.Downey 著；赵普明 译，人民邮电出版社
+- [How to Think Like a Computer Scientist: Learning with Python 3](http://www.ict.ru.ac.za/Resources/cspw/thinkcspy3/), by
+  Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers, 3rd Edition, Aug 2012. 这本书是 《Think Python - How to Think Like a Computer Scientist》另外一个版本, 是Python3的
+- [Think Python - How to Think Like a Computer Scientist](http://greenteapress.com/wp/think-python-2e/), 2nd Edition, Allen Downey, Green Tea Press, 2015. **这本书是Python3的**
+- 像计算机科学家一样思考Python，Allen B.Downey 著；赵普明 译，人民邮电出版社, 2012. **本书是Python2的**
+
+---
+
+- Introduction to Computation and Programming Using Python, Revised and Expanded Edition, John V. Guttag, The MIT Press. **MIT的教材**
 - Think Like a Programmer: An Introduction to Creative Problem Solving, V. Anton Spraul, No Starch Press, 2012
-- Introduction to Computation and Programming Using Python, Revised and Expanded Edition, John V. Guttag, The MIT Press
 
 ----
 
