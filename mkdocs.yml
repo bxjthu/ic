@@ -7,6 +7,7 @@ pages:
 - Intro: intro.md
 - Material: 
     - Command Tools: cmd.md
+    - Python Env: python.md
 - Schedule: schedule.md
 - Assignment: assign.md
 

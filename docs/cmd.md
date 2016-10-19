@@ -3,11 +3,14 @@
 Python 是个脚本语言, 在很多情况下, 适合在命令行终端中执行Python程序. 
 因此，我们需要了解一些在终端中如何用命令行工具操作计算机的技巧.
 
-Windows, Mac OS, Linux三种常见操作系统的命令行工具各不相同. 
+[Windows](#win), [Mac OS](#macos), [Linux](#linux) 三种常见操作系统的命令行工具各不相同. 
 
 <hr>
 
+<a name="win"></a>
 ## Windows
+
+打开Windows (XP, Win7, Win10)  的 ** 搜索 或 运行 ** 菜单/命令, 输入`cmd`, 点击运行
 
 ### DIR —— 显示磁盘目录命令 
 
@@ -216,4 +219,12 @@ echo %PATH%
 set 
 ```
 
+<a name="macos"></a> 
 ## Mac OS
+
+搜索 `Terminal` , 打开后进入
+
+<a name="linux"></a> 
+## Linux 
+
+如果你已经是一个Linux用户, 相信你已经对终端操作非常熟悉了. 
