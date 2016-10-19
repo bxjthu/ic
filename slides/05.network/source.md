@@ -105,6 +105,10 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 ---
 
+<img src="images/chinaisp.jpg" width=900 style="margin: 00px -75px">
+
+---
+
 ## 网络交互需要一套协议
 
 
@@ -322,6 +326,20 @@ ADSL, Asymmetric Digital Subscriber Line: 同时传输语音信号和数字信�
 
 ---
 
+## 用户数据通过协议栈的示意
+
+
+<img src="images/UDP_encapsulation.svg" width=700 style="margin: 00px 50px">
+
+---
+
+## 用户数据在网络上传输的示意
+
+
+<img src="images/IP_stack_connections.svg" width=450 style="margin: 00px 50px">
+
+---
+
 ## IP数据包的分组交换, packet-switch
 
 IP数据包在网络上分组传输
@@ -334,25 +352,42 @@ IP数据包在网络上分组传输
 
 ---
 
-## 分组交换示例
+## IP分组交换示例
 
 <img src="images/Packet_Switching.gif" width=700 style="margin: 00px 50px">
 
 ---
 
-## 用户数据通过协议栈的示例
+## TCP: 在不可靠的IP协议上可靠传输数据
 
+TCP (Transmission Control Protocol) 协议：传输控制协议，提供了一种可靠的、面向连接的数据流服务
 
-<img src="images/UDP_encapsulation.svg" width=700 style="margin: 00px 50px">
+- 双方通信前需要预先建立一条连接(虚电路) 
+
+- 如何建立连接？
+
+### 两军问题
+
+<img src="images/2-generals.svg" width=700 style="margin: 00px 50px">
 
 ---
 
-## 用户数据在网络上传输的示例
+## TCP建立连接的三次握手
+
+握手(handshake): 通信的双方就建立连接的自动协商过程
 
 
-<img src="images/IP_stack_connections.svg" width=450 style="margin: 00px 50px">
+<img src="images/Tcp-handshake.svg" width=450 style="margin: 20px 50px">
+
 
 ---
+
+## TCP简化状态图
+
+<img src="images/Tcp_state_diagram_fixed_new.svg" width=750 style="margin: -40px 00px">
+
+---
+
 
 ## IP 地址
 
@@ -393,7 +428,6 @@ IP数据包在网络上分组传输
     - B: 172.16.0.0 - 172.31.255.255
 
     - C: 192.168.0.0 - 192.168.255.255
-
 
 ---
 
@@ -440,14 +474,14 @@ IPv6: 地址容量为 `\(2^{128}\)`, 是 IPv4 的约 8 × `\(10^{28}\)` 倍
 
 ## IP 地址的设置
 
-手工设置
+** 手工设置 **
 
 - 询问管理员: 获得主机 IP 地址, 网络掩码, 网关 
 
 - 网关 (gateway): 转发发送到子网外的数据包的机器
 
 
-自动获取 DHCP 方式, Dynamic Host Con guration Protocol
+** 自动获取方式, Dynamic Host Configuration Protocol ** 
 
 - 从 DHCP 服务器处自动获得 IP 地址, 网络掩码, 网关, DNS服务器等
 
@@ -462,36 +496,6 @@ IPv6: 地址容量为 `\(2^{128}\)`, 是 IPv4 的约 8 × `\(10^{28}\)` 倍
 
 ---
 
-## TCP: 在不可靠的IP协议上可靠传输数据
-
-TCP (Transmission Control Protocol) 协议：传输控制协议，提供了一种可靠的、面向连接的数据流服务
-
-- 双方通信前需要预先建立一条连接(虚电路) 
-
-- 如何建立连接？
-
-### 两军问题
-
-<img src="images/2-generals.svg" width=700 style="margin: 00px 50px">
-
----
-
-## TCP建立连接的三次握手
-
-握手(handshake): 通信的双方就建立连接的自动协商过程
-
-
-<img src="images/Tcp-handshake.svg" width=450 style="margin: 20px 50px">
-
-
----
-
-## TCP简化状态图
-
-<img src="images/Tcp_state_diagram_fixed_new.svg" width=750 style="margin: -40px 00px">
-
----
-
 ## Internet 应用程序的地址
 
 - Internet 应用程序地址: `<IP地址, 端口号>`
@@ -500,32 +504,6 @@ TCP (Transmission Control Protocol) 协议：传输控制协议，提供了一�
 
 
 <img src="images/tcpport.svg" width=600 style="margin: 20px 50px">
-
----
-
-## World Wide Web, WWW
-
-基于超媒体, 方便用户在 Internet 上检索和浏览信息的一种工具. WWW 和 Internet 并不等价.
-
-- 超媒体 (hypermedia): 超文本和多媒体 (multimedia) 的结合 
-
-- 超文本(hypertext): 用于显示文档的一种用户接口技术.  超文本文档里包含若干个指向其他文档的超链接 
-
-- 超链接 (hyperlink): 类似于科技文献中的引用
-
----
-
-## WWW 分层的功能示意
-
-
-<img src="images/Internet_Key_Layers.png" width=700 style="margin: 00px 50px">
-
----
-
-## WWW 超链接的一个图形化示意片段
-
-
-<img src="images/WorldWideWebAroundWikipedia.png" width=700 style="margin: 00px 00px">
 
 ---
 
@@ -597,6 +575,79 @@ scheme  user infor  host  port              query      fragment
 
 </pre>
 
+
+---
+
+## World Wide Web, WWW
+
+基于超媒体, 方便用户在 Internet 上检索和浏览信息的一种工具. WWW 和 Internet 并不等价.
+
+- 超媒体 (hypermedia): 超文本和多媒体 (multimedia) 的结合 
+
+- 超文本(hypertext): 用于显示文档的一种用户接口技术.  超文本文档里包含若干个指向其他文档的超链接 
+
+- 超链接 (hyperlink): 类似于科技文献中的引用
+
+---
+
+## WWW 分层的功能示意
+
+
+<img src="images/Internet_Key_Layers.png" width=700 style="margin: 00px 50px">
+
+---
+
+## WWW 超链接的一个图形化示意片段
+
+
+<img src="images/WorldWideWebAroundWikipedia.png" width=700 style="margin: 00px 00px">
+
+---
+
+## WWW, HTTP, HTML
+
+** 一个WEB服务器: ** 
+<pre> http://www.example.org/index.html </pre>
+
+** 客户端浏览器打开该URL地址, 发送HTTP请求: **
+
+```xml
+GET /index.html HTTP/1.1
+Host: www.example.org
+```
+
+** WEB服务器发送HTTP响应: **
+
+```xml
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=UTF-8
+```
+
+** 紧随其后是返回的HTML页面内容 **
+
+---
+
+## HTML, CSS, Javascript
+
+** HTML 页面内容 **
+
+``` xml
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is a title</title>
+  </head>
+  <body>
+    <p>Hello world!</p>
+  </body>
+</html>
+```
+
+HTML4, HTML5
+
+CSS(Cascading Style Sheets): 样式、布局
+
+Javascript: 提供交互行为
 
 ---
 
