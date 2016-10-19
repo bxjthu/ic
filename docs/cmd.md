@@ -222,9 +222,119 @@ set
 <a name="macos"></a> 
 ## Mac OS
 
-搜索 `Terminal` , 打开后进入
+搜索 `Terminal` , 打开后进入.
+
+几个概念:
+
+- 系统根目录: `/` 
+- 当前目录，工作目录: `.` 
+- 当前目录的父目录: `..` 
+- 用户主目录 (Home Directory): `~`
+- 路径, 如 `/usr/bin/java`
+
+### 查看当前目录
+
+```bash
+$ pwd
+/Users/caodg/prog
+```
+
+### 查看当前目录内容
+
+```bash
+$ ls -G
+hello.py index.html prog
+```
+
+###  进入子目录
+
+```bash
+$ cd prog
+```
+
+###  进入父目录
+
+```bash
+$ cd ..
+```
+
+### 显示当前目录下所有 py 文件
+
+```bash
+$ ls *.py
+```
+
+`*` 是通配符, 匹配任意非隐藏字符串.
+
+`?` 匹配任意非隐藏字符.
+
+### 文件复制
+
+将文件 aaa 复制为 aaa.bak
+
+```bash
+$ cp aaa aaa.bak
+```
+
+将所有 py 语言文件复制到 bak 目录
+
+```bash
+$ cp *.py bak
+```
+
+将目录bak及其子目录里的所有内容 复制到 bak2目录中 
+
+```bash
+$ cp -r bak bak2
+```
+
+### 文件删除
+
+删除所有.bak 文件, 删除前确认
+
+```bash
+$ rm -i *.bak
+```
+
+删除bak及其目录下所有文件, 强制删除 (**小心**)
+
+```bash
+$ rm -rf bak
+```
+
+### 文件移动
+
+将文件aaa 改名为 bbb
+
+```bash
+$ mv aaa bbb
+```
+
+将所有 .py 文件移动到 prog 目录
+
+```bash
+$ mv *.py prog
+```
+
+### 目录创建与删除
+
+在当前目录创建一个子目录 sub1
+
+```bash
+$ mkdir sub1
+```
+
+删除子目录 sub1
+
+```
+$ rm -r sub1
+```
+
+----
 
 <a name="linux"></a> 
 ## Linux 
 
 如果你已经是一个Linux用户, 相信你已经对终端操作非常熟悉了. 
+
+如果你不熟悉, 基本的文件操作可以参考 [Mac OS](#macos).  
