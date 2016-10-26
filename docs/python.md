@@ -3,15 +3,23 @@
 
 ## 安装 Python 工作环境
 
-* Python3
+* 方式1: 安装 Python3 及各个软件包
 
-[Python 官网](https://www.python.org)有很多不错的资源和文档, 包括如何[安装](https://www.python.org/about/gettingstarted/), 以及如何[选择IDE](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments), [选择编辑器](https://wiki.python.org/moin/PythonEditors)
+首先安装 [Python3](https://www.python.org). 
 
-* Anaconda
+Python 官网有很多不错的资源和文档, 包括如何[安装](https://www.python.org/about/gettingstarted/), 以及如何[选择IDE](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments), [选择编辑器](https://wiki.python.org/moin/PythonEditors), 等等
 
-[Ananconda](https://www.continuum.io)是一个包含了很多科学实验、工程设计、数据分析所需软件包的Python平台.  
+然后通过 `pip/pip3` 命令安装所需的软件包, 比如
 
-Anaconda比较大, 建议只安装 miniconda, 通过[清华大学镜像](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/) 安装需要的软件包(numpy, scipy, matplotlib等).
+```bash
+$ pip install jupyter
+```
+
+* 方式2: 安装 Anaconda
+
+[Anaconda](https://www.continuum.io)是一个包含了很多科学实验、工程设计、数据分析所需软件包的Python平台, Anaconda 自带了Python 环境, 不需要再单独安装.  
+
+Anaconda比较大, 还可以只安装 miniconda, 通过[清华大学镜像](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/) 安装需要的软件包(numpy, scipy, matplotlib等).
 
 ## 编辑器
 
