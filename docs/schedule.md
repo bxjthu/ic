@@ -13,7 +13,7 @@
 03 | 2016年9月28日 | 计算机硬件 |  [HTML5](03.hardware/index.html) | [作业3](assign/index.html#ihw3)
 04 | 2016年10月12日 | 操作系统 |  [HTML5](04.os/index.html) | [作业4](assign/index.html#ihw4)
 05 | 2016年10月19日 | 网络 | [HTML5](05.network/index.html) |[作业5](assign/index.html#ihw5)
-06 | 2016年10月26日 | Hello Python | HTML5 |
+06 | 2016年10月26日 | Hello Python | [Notebook](notebooks/01.intro.ipynb) |[Lab0](assign/index.html#lab0)
 07 | 2016年11月2日 |  | HTML5 | 
 08 | 2016年11月9日 |  | HTML5 | 
 09 | 2016年11月16日 |  | HTML5  |

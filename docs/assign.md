@@ -1,6 +1,31 @@
 作业
 ===
 
+<a name="lab0"></a>
+### Python作业0 (Oct/26/2016)
+
+!!! note ""
+    注: 本次作业不需提交
+
+**内容:**
+
+0. 熟悉自己所用操作系统的[终端操作](cmd.md), 可以在终端下复制、查看文件, 改变当前路径等
+
+1. 在自己的机器上安装[anaconda](https://mirror.tuna.tsinghua.edu.cn/anaconda/archive/)/[miniconda](https://mirror.tuna.tsinghua.edu.cn/anaconda/miniconda/), 熟悉 python3, ipython, jupyter, pip的用法
+
+2. 在 [http://iwork.pku.edu.cn](http://iwork.pku.edu.cn) 上申请成为正式用户, 阅读Help, 创建 Workspace, 熟悉 Notebook 工作环境
+
+3. 在Notebook 中 打印运行 `print('Hello Python!')`
+
+4. 在Notebook 中 创建一个 **markdown** 类型的Cell, 写一段markdown 文本
+
+**提交:**
+
+无
+
+**提交截止:**
+
+无
 <a name="ihw5"></a>
 ### 概论作业5 (Oct/19/2016)
 
