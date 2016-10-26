@@ -11,7 +11,7 @@
 
 0. 熟悉自己所用操作系统的[终端操作](cmd.md), 可以在终端下复制、查看文件, 改变当前路径等
 
-1. 在自己的机器上安装[anaconda](https://mirror.tuna.tsinghua.edu.cn/anaconda/archive/)/[miniconda](https://mirror.tuna.tsinghua.edu.cn/anaconda/miniconda/), 熟悉 python3, ipython, jupyter, pip的用法
+1. 在自己的机器上安装[anaconda](https://mirror.tuna.tsinghua.edu.cn/anaconda/archive/)/[miniconda](https://mirror.tuna.tsinghua.edu.cn/anaconda/miniconda/), 熟悉 python3, ipython, jupyter, pip的用法, 选择并熟悉一个编辑器或IDE
 
 2. 在 [http://iwork.pku.edu.cn](http://iwork.pku.edu.cn) 上申请成为正式用户, 阅读Help, 创建 Workspace, 熟悉 Notebook 工作环境
 
