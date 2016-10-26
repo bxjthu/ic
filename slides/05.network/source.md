@@ -552,7 +552,7 @@ IPv6: 地址容量为 `\(2^{128}\)`, 是 IPv4 的约 8 × `\(10^{28}\)` 倍
 
 ---
 
-## URL, Uniform Resource Identifier
+## URL, Uniform Resource Locator
 
 一个字符串, 用于标记WEB资源的访问地址
 
