@@ -14,13 +14,13 @@
 04 | 2016年10月12日 | 操作系统 |  [HTML5](04.os/index.html) | [作业4](assign/index.html#ihw4)
 05 | 2016年10月19日 | 网络 | [HTML5](05.network/index.html) |[作业5](assign/index.html#ihw5)
 06 | 2016年10月26日 | 1. The way of the program | [Notebook](notebooks/01.intro.ipynb) |[Lab0](assign/index.html#lab0)
-07 | 2016年11月2日 |  | HTML5 | 
-08 | 2016年11月9日 |  | HTML5 | 
-09 | 2016年11月16日 |  | HTML5  |
-10 | 2016年11月23日 |  | HTML5  | 
-11 | 2016年11月30日 |  | HTML5  |
-12 | 2016年12月7日 |  | HTML5 | 
-13 | 2016年12月14日 |  | HTML5  |
-14 | 2016年12月21日 |  | HTML5 |
-15 | 2016年12月28日 | 总结 | HTML5  |
+07 | 2016年11月2日 | 2. 2. Variables, Expressions and Statements | [Notebook](notebooks/02.var.ipynb) | [Lab1](assign/index.html#lab1)
+08 | 2016年11月9日 |  | Notebook | 
+09 | 2016年11月16日 |  | Notebook  |
+10 | 2016年11月23日 |  | Notebook  | 
+11 | 2016年11月30日 |  | Notebook  |
+12 | 2016年12月7日 |  | Notebook | 
+13 | 2016年12月14日 |  | Notebook  |
+14 | 2016年12月21日 |  | Notebook |
+15 | 2016年12月28日 | | Notebook  |
 16 | 2017年1月4日 | 考试周  | 待定  | 待定

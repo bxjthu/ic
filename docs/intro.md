@@ -40,7 +40,7 @@
 
 ** Python作业:  30分 **
 
-  * 练习(Lab): 练习是微小型的题目, 目的是帮助学生掌握单个知识点, 每次课布置一次, 总共占 5 分. 通过[OpenJudge](http://ic.openjudge.cn/lab) 在线提交，请用真实姓名注册，以便于统计成绩
+  * 练习(Lab): 练习是微小型的题目, 目的是帮助学生掌握单个知识点, 每次课布置一次, 总共占 5 分. 通过[OpenJudge](http://ic.openjudge.cn) 在线提交，请用真实姓名注册，以便于统计成绩
   * 作业(Assignment): 作业是较综合的题目, 目的是学习解决真实问题, 每两次课布置一次, 总共25分. 作业在[北大课程网](http://course.pku.edu.cn) 在线提交
 
 <div class="alert alert-info">

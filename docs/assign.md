@@ -1,13 +1,24 @@
 作业
 ===
 
+---
+
+<a name="lab1"></a>
+### Python练习 Lab1 (Nov/2/2016)
+
+** 内容及要求: **
+
+[http://ic.openjudge.cn/lab1](http://ic.openjudge.cn/lab1/)
+
+---
+
 <a name="lab0"></a>
-### Python作业 Lab0 (Oct/26/2016)
+### Python练习 Lab0 (Oct/26/2016)
 
 !!! note ""
     注: 本次作业不需提交
 
-**内容:**
+** 内容: **
 
 0. 熟悉自己所用操作系统的[终端操作](cmd.md), 可以在终端下复制、查看文件, 改变当前路径等
 
