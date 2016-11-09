@@ -3,6 +3,17 @@
 
 ---
 
+<a name="lab2"></a>
+### Python练习 Lab2 (Nov/9/2016)
+
+** 内容及要求: **
+
+[http://ic.openjudge.cn/lab2](http://ic.openjudge.cn/lab2/)
+
+本次Lab程序输出是图形, 系统无法测试, 请自己本地测试后提交.
+
+---
+
 <a name="lab1"></a>
 ### Python练习 Lab1 (Nov/2/2016)
 

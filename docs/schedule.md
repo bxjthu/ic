@@ -15,7 +15,8 @@
 05 | 2016年10月19日 | 网络 | [HTML5](05.network/index.html) |[作业5](assign/index.html#ihw5)
 06 | 2016年10月26日 | 1. The way of the program | [Notebook](notebooks/01.intro.ipynb) |[Lab0](assign/index.html#lab0)
 07 | 2016年11月2日 | 2. Variables, Expressions and Statements | [Notebook](notebooks/02.var.ipynb) | [Lab1](assign/index.html#lab1)
-08 | 2016年11月9日 |  | Notebook | 
+08 | 2016年11月9日 | 3. Debugging | [Notebook](notebooks/03.debugging.ipynb) | [Lab2](assign/index.html#lab2)
+   |               | 4. Turtle    | [Notebook](04.turtle.ipynb)
 09 | 2016年11月16日 |  | Notebook  |
 10 | 2016年11月23日 |  | Notebook  | 
 11 | 2016年11月30日 |  | Notebook  |
