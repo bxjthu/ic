@@ -10,7 +10,7 @@
 
 用python的turtle库, 写一个程序 planets.py, 能仿真太阳系水金火木土地球6大行星围绕太阳的运行轨迹. 如下图所示:
 
-<img src="/images/assign_planets.png" width=480>
+<img src="../images/assign_planets.png" width=480>
 
 planets.py要符合基本的python [编程规范](python.md#style).
 
