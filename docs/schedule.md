@@ -2,8 +2,8 @@
 =============
 
 !!! note ""
-    请用支持 HTML5 的浏览器如 Chrome 打开课件，并保证有互联网连接
-    请自行用[DeckTape](https://github.com/astefanutti/decktape)生成PDF版本课件, 课件使用的是[remark](https://remarkjs.com)
+    请用支持 HTML5 的浏览器如 Chrome 打开 HTML5 课件，并保证有互联网连接
+    请用 [Anaconda](https://www.continuum.io) 的jupyter notebook 打开 Notebook 课件
 
 
 序号 | 时间  |  内容 | 课件  | 作业
