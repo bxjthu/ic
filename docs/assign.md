@@ -3,6 +3,28 @@
 
 ---
 
+<a name="assign1"></a>
+### Python作业 Assign1 (Nov/16/2016)
+
+** 内容及要求: **
+
+用python的turtle库, 写一个程序 planets.py, 能仿真太阳系水金火木土地球6大行星围绕太阳的运行轨迹. 如下图所示:
+
+<img src="/images/assign_planets.png" width=480>
+
+planets.py要符合基本的python [编程规范](python.md#style).
+
+**提交:**
+
+在线提交, 将planets.py 提交到 [北京大学课程网](http://course.pku.edu.cn)
+
+**提交截止:**
+
+2016年11月29日23:59
+
+---
+
+
 <a name="lab2"></a>
 ### Python练习 Lab2 (Nov/9/2016)
 

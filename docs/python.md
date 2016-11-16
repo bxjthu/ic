@@ -1,7 +1,11 @@
 # Python and Python IDE
 
+---
 
+<a name="install"></a>
 ## 安装 Python 工作环境
+
+&nbsp;
 
 * 方式1: 安装 Python3 及各个软件包
 
@@ -21,7 +25,12 @@ $ pip install jupyter
 
 Anaconda比较大, 还可以只安装 miniconda, 通过[清华大学镜像](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/) 安装需要的软件包(numpy, scipy, matplotlib等).
 
+---
+
+<a name="editors"></a>
 ## 编辑器
+
+&nbsp;
 
 Quora有一个关于选择Python Editor的专题: <a href="https://www.quora.com/Whats-a-good-Python-editor-IDE">What's a good Python editor/IDE?</a>
 
@@ -32,7 +41,11 @@ Quora有一个关于选择Python Editor的专题: <a href="https://www.quora.com
 * Vim/Emacs (适合专业程序员)
 
 
+---
+<a name="ides"></a>
 ## 集成开发环境IDE
+
+&nbsp;
 
 Wikipedia 有一篇专题: <a href="https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments#Python">Python IDE比较</a>
 
@@ -48,8 +61,11 @@ Wikipedia 有一篇专题: <a href="https://en.wikipedia.org/wiki/Comparison_of_
 * [Spyder](https://pythonhosted.org/spyder/) 推荐: ★★★★
 
 
-
+---
+<a name="online"></a>
 ## 在线使用 Python 
+
+&nbsp;
 
 推荐: ★★★★★
 
@@ -57,3 +73,50 @@ Wikipedia 有一篇专题: <a href="https://en.wikipedia.org/wiki/Comparison_of_
 
 用北大账号登录, 填写完整信息后可成为正式用户, 在线使用Jupyer notebook编写Python程序,
 进行数据分析, 生成可视图表等.
+
+
+---
+<a name="style"></a>
+## Python 编程风格
+
+&nbsp;
+
+[PEP8](https://www.python.org/dev/peps/pep-0008/)是官方给出的Python编程风格描述, 请务必详细阅读. 一个更简短的描述在[这里](pep8.org).
+
+下面是一个 [foobar.py](/demos/foobar.py) 的例子, 可以此为模板修改自己的程序:
+
+```python
+#!/usr/bin/env python3
+
+"""Foobar.py: Description of what foobar does.
+
+__author__ = "Zhangsan"
+__pkuid__  = "1600012345"
+__email__  = "zhangsan@pku.edu.cn"
+"""
+
+import math
+
+
+def foo(par1, par2):
+    """description of foo, using what par1 and par2, return what
+    """
+    pass
+
+
+def main():
+    """main module
+    """
+    foo(1, 2)
+
+
+if __name__ == '__main__':
+    main()
+```
+
+可以安装一个 pep8 软件包帮助检查代码是否符合[PEP8](https://www.python.org/dev/peps/pep-0008/) 规范.
+
+```
+$ pip install pip8
+$ pep8 assign1.py
+```

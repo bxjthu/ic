@@ -17,7 +17,8 @@
 07 | 2016年11月2日 | 2. Variables, Expressions and Statements | [Notebook](notebooks/02.var.ipynb) | [Lab1](assign/index.html#lab1)
 08 | 2016年11月9日 | 3. Debugging | [Notebook](notebooks/03.debugging.ipynb) | [Lab2](assign/index.html#lab2)
    |               | 4. Turtle    | [Notebook](notebooks/04.turtle.ipynb)
-09 | 2016年11月16日 |  | Notebook  |
+09 | 2016年11月16日| 5. Modules   | [Notebook](notebooks/05.modules.ipynb)  | [Assign1](assign/index.html#assign1)
+   |               | 6. Function  | [Notebook](notebooks/06.func.ipynb)
 10 | 2016年11月23日 |  | Notebook  | 
 11 | 2016年11月30日 |  | Notebook  |
 12 | 2016年12月7日 |  | Notebook | 
