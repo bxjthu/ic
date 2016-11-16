@@ -24,6 +24,15 @@ planets.py要符合基本的python [编程规范](python.md#style).
 
 ---
 
+<a name="lab3"></a>
+### Python练习 Lab3 (Nov/16/2016)
+
+** 内容及要求: **
+
+[http://ic.openjudge.cn/lab3](http://ic.openjudge.cn/lab3/)
+
+---
+
 
 <a name="lab2"></a>
 ### Python练习 Lab2 (Nov/9/2016)
