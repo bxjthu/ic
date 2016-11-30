@@ -21,7 +21,8 @@
    |               | 6. Function  | [Notebook](notebooks/06.func.ipynb) | [Lab3](assign/index.html#lab3)
 10 | 2016年11月23日| 7. Selection | [Notebook](notebooks/07.selection.ipynb)  | [Lab4](assign/index.html#lab4)
    |               | 8. Loop      | [Notebook](notebooks/08.loop.ipynb) |
-11 | 2016年11月30日 |  | Notebook  |
+11 | 2016年11月30日| 9. String    | [Notebook](notebooks/09.strings.ipynb) | [lab5](assign/index.html#lab5)
+   |               |10. List      | [Notebook](notebooks/10.lists.ipynb) | [Assign2](assign/index.html#assign2)
 12 | 2016年12月7日 |  | Notebook | 
 13 | 2016年12月14日 |  | Notebook  |
 14 | 2016年12月21日 |  | Notebook |
