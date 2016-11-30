@@ -61,6 +61,7 @@ from urllib.request import urlopen
 
 doc = urlopen('http://cs1110.cs.cornell.edu/2016fa/a1server.php?from=USD&to=EUR&amt=2.5')
 docstr = doc.read()
+doc.close()
 jstr = docstr.decode('ascii')
 ```
 
