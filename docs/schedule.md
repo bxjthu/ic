@@ -23,11 +23,12 @@
    |               | 8. Loop      | [Notebook](notebooks/08.loop.ipynb) |
 11 | 2016年11月30日| 9. String    | [Notebook](notebooks/09.strings.ipynb) | [Lab5](assign/index.html#lab5)
    |               |              |     | [Assign2](assign/index.html#assign2)
-12 | 2016年12月7日 | 10. List     | [Notebook](notebooks/10.lists.ipynb) | Lab6
+12 | 2016年12月7日 | 10. List, Tuple, Set | [Notebook](notebooks/10.lists.ipynb) | Lab6
 13 | 2016年12月14日 |11. File, Exception | Notebook  |
-   |                |12. Recursion  | Notebook  |
-   |                |13. Dictionary and Set | Notebook |
+   |                |12. Recursion  | Notebook |
+   |                |13. Dictionary | Notebook |
 14 | 2016年12月21日 |14. Classes and Objects | Notebook |
    |                |15. Functional Programming | Notebook |
 15 | 2016年12月28日 |16. Matplotlib, Scipy, Numpy | Notebook  |
+   |                | 习题, 答疑 | |
 16 | 2017年1月4日 | 考试周  | 待定  | 待定
