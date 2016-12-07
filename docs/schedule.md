@@ -23,7 +23,7 @@
    |               | 8. Loop      | [Notebook](notebooks/08.loop.ipynb) |
 11 | 2016年11月30日| 9. String    | [Notebook](notebooks/09.strings.ipynb) | [Lab5](assign/index.html#lab5)
    |               |              |     | [Assign2](assign/index.html#assign2)
-12 | 2016年12月7日 | 10. List, Tuple, Set | [Notebook](notebooks/10.lists.ipynb) | Lab6
+12 | 2016年12月7日 | 10. List, Tuple, Set | [Notebook](notebooks/10.lists.ipynb) | [Lab6](assign/index.html#lab6)
 13 | 2016年12月14日 |11. File, Exception | Notebook  |
    |                |12. Recursion  | Notebook |
    |                |13. Dictionary | Notebook |

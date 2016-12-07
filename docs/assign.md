@@ -3,6 +3,16 @@
 
 ---
 
+<a name="lab6"></a>
+### Python练习 Lab6 (Dec/07/2016)
+
+** 内容及要求: **
+
+[http://ic.openjudge.cn/lab6](http://ic.openjudge.cn/lab6/)
+
+---
+
+
 <a name="assign2"></a>
 ### Python作业 Assign2 (Nov/30/2016)
 
