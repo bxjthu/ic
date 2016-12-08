@@ -11,10 +11,10 @@
 16 | 2017年1月4日 | 考试周  | 待定  | 待定
 15 | 2016年12月28日 |16. Matplotlib, Scipy, Numpy | Notebook  |
    |                | 习题, 答疑 | |
-14 | 2016年12月21日 |14. Classes and Objects | Notebook | Lab8
+14 | 2016年12月21日 |14. Classes and Objects | Notebook | [Lab8](assign/index.html#lab8)
    |                |15. Functional Programming | Notebook |
-13 | 2016年12月14日 |11. File, Exception | Notebook  | Assign3
-   |                |12. Recursion  | Notebook | Lab7
+13 | 2016年12月14日 |11. File, Exception | Notebook  | [Assign3](assign/index.html#assign3)
+   |                |12. Recursion  | Notebook | [Lab7](assign/index.html#lab7)
    |                |13. Dictionary | Notebook |
 12 | 2016年12月7日 | 10. List, Tuple, Set | [Notebook](notebooks/10.lists.ipynb) | [Lab6](assign/index.html#lab6)
 11 | 2016年11月30日| 9. String    | [Notebook](notebooks/09.strings.ipynb) | [Lab5](assign/index.html#lab5)
