@@ -13,12 +13,12 @@
    |                | 习题, 答疑 | |
 14 | 2016年12月21日 |14. Classes and Objects | Notebook | [Lab8](assign/index.html#lab8)
    |                |15. Functional Programming | Notebook |
-13 | 2016年12月14日 |11. File, Exception | Notebook  | [Assign3](assign/index.html#assign3)
-   |                |12. Recursion  | Notebook | [Lab7](assign/index.html#lab7)
-   |                |13. Dictionary | Notebook |
+13 | 2016年12月14日 |11. File, Exception | [Notebook](notebooks/11.files.ipynb)  | [Assign3](assign/index.html#assign3)
+   |                |12. Recursion  | [Notebook](notebooks/12.Recursion.ipynb) | [Lab7](assign/index.html#lab7)
+   |                |13. Dictionary | [Notebook](notebooks/13.Dictionary.ipynb) |
 12 | 2016年12月7日 | 10. List, Tuple, Set | [Notebook](notebooks/10.lists.ipynb) | [Lab6](assign/index.html#lab6)
 11 | 2016年11月30日| 9. String    | [Notebook](notebooks/09.strings.ipynb) | [Lab5](assign/index.html#lab5)
-   |               |              |     | [Assign2](assign/index.html#assign2)
+   |               |              | | [Assign2](assign/index.html#assign2)
 10 | 2016年11月23日| 7. Selection | [Notebook](notebooks/07.selection.ipynb)  | [Lab4](assign/index.html#lab4)
    |               | 8. Loop      | [Notebook](notebooks/08.loop.ipynb) |
 09 | 2016年11月16日| 5. Modules   | [Notebook](notebooks/05.modules.ipynb)  | [Assign1](assign/index.html#assign1)
