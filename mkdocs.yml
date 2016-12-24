@@ -5,7 +5,7 @@ site_description: "计算概论B(化学)"
 pages:
 - Home: index.md
 - Intro: intro.md
-- Material: 
+- Guide: 
     - Command Tools: cmd.md
     - Python Env: python.md
 - Schedule: schedule.md
