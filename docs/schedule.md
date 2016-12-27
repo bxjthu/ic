@@ -8,7 +8,7 @@
 
 序号 | 时间  |  内容 | 课件  | 作业
 -- | --- | ---------- | -- | ----
-16 | 2017年1月4日 | 考试周  | 待定  | 待定
+16 | 2017年1月3日13:00-15:00 | 期末上机考试  |  | 计算中心6号机房
 15 | 2016年12月28日 |16. Matplotlib, Scipy, Numpy | Notebook  |
    |                | 习题, 答疑 | |
 14 | 2016年12月21日 |14. Classes and Objects | [Notebook](notebooks/14.oo.ipynb) | [Lab8](assign/index.html#lab8)
