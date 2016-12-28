@@ -15,6 +15,7 @@
  |  | Linear Regression   | [Notebook](notebooks/linear_regression.ipynb)  |
  |  | Functions & Charts | [Notebook](notebooks/DrawCharts.ipynb)  |
  |  | Intergrate | [Notebook](notebooks/intergrate.ipynb)  |
+ |  | Data Analysis | [Notebook](notebooks/python_demo.ipynb)  |
  |  | 习题, 答疑          |    |
 14 | 2016年12月21日 |14. Classes and Objects | [Notebook](notebooks/14.oo.ipynb) | [Lab8](assign/index.html#lab8)
    |                |15. Functional Programming | [Notebook](notebooks/15.functionalprog.ipynb) |
