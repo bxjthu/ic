@@ -17,7 +17,7 @@
 
 ** 内容及要求: **
 
-[http://ic.openjudge.cn/lab7](http://ic.openjudge.cn/lab6/)
+[http://ic.openjudge.cn/lab7](http://ic.openjudge.cn/lab7/)
 
 ---
 
