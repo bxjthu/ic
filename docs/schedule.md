@@ -9,8 +9,11 @@
 序号 | 时间  |  内容 | 课件  | 作业
 -- | --- | ---------- | -- | ----
 16 | 2017年1月3日13:00-15:00 | 期末上机考试  |  | 计算中心6号机房
-15 | 2016年12月28日 |16. Matplotlib, Scipy, Numpy | Notebook  |
-   |                | 习题, 答疑 | |
+15 | 2016年12月28日 |16. Matplotlib, Scipy, Numpy |   |
+ |  | Balancing Reactions | [Notebook](notebooks/BalancingReactions.ipynb)  |
+ |  | Machine Learning    | [Notebook](notebooks/machine_learning.ipynb)  |
+ |  | Linear Regression   | [Notebook](notebooks/linear_regression.ipynb)  |
+ |  | 习题, 答疑          |    |
 14 | 2016年12月21日 |14. Classes and Objects | [Notebook](notebooks/14.oo.ipynb) | [Lab8](assign/index.html#lab8)
    |                |15. Functional Programming | [Notebook](notebooks/15.functionalprog.ipynb) |
 13 | 2016年12月14日 |11. File, Exception | [Notebook](notebooks/11.files.ipynb)  | [Assign3](assign/index.html#assign3)
