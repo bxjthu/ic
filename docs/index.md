@@ -21,11 +21,9 @@
 
 助教:
 
-- <a href="http://www.unias.org/trac/docklet/chrome/site/liupeidong.png">刘沛东</a> (lpd1995 AT 126.com )
+- 朱瑜坚 (18811464128 AT 163.com )
 
-- <a href="http://www.unias.org/trac/docklet/chrome/site/zhongyehong.png">钟业弘</a> (zhongyh AT pku.edu.cn )
-
-- <a href="http://www.unias.org/trac/docklet/chrome/site/majm.jpg">马俊明</a> (mjm520 AT pku.edu.cn )
+- 何卓论 (531768085 AT qq.com )
 
 
 实验平台:

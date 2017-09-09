@@ -4,7 +4,7 @@
 ---
 
 <a name="lab8"></a>
-### Python练习 Lab8 (Dec/21/2016)
+### Python练习 Lab8 (Dec/20/2017)
 
 ** 内容及要求: **
 
@@ -13,7 +13,7 @@
 ---
 
 <a name="lab7"></a>
-### Python练习 Lab7 (Dec/14/2016)
+### Python练习 Lab7 (Dec/13/2017)
 
 ** 内容及要求: **
 
@@ -22,7 +22,7 @@
 ---
 
 <a name="assign3"></a>
-### Python作业 Assign3 (Dec/14/2016)
+### Python作业 Assign3 (Dec/13/2017)
 
 ** 单词统计 **
 
@@ -150,12 +150,12 @@ $ python wcount.py http://www.gutenberg.org/cache/epub/19033/pg19033.txt
 
 **提交截止:**
 
-2017年1月1日23:59
+2017年12月26日23:59
 
 ---
 
 <a name="lab6"></a>
-### Python练习 Lab6 (Dec/07/2016)
+### Python练习 Lab6 (Dec/06/2017)
 
 ** 内容及要求: **
 
@@ -165,7 +165,7 @@ $ python wcount.py http://www.gutenberg.org/cache/epub/19033/pg19033.txt
 
 
 <a name="assign2"></a>
-### Python作业 Assign2 (Nov/30/2016)
+### Python作业 Assign2 (Nov/29/2017)
 
 ** 汇率计算 **
 
@@ -276,13 +276,13 @@ def testAll()
 
 **提交截止:**
 
-2016年12月20日23:59
+2016年12月19日23:59
 
 ---
 
 
 <a name="lab5"></a>
-### Python练习 Lab5 (Nov/30/2016)
+### Python练习 Lab5 (Nov/29/2017)
 
 ** 内容及要求: **
 
@@ -292,7 +292,7 @@ def testAll()
 
 
 <a name="lab4"></a>
-### Python练习 Lab4 (Nov/23/2016)
+### Python练习 Lab4 (Nov/22/2017)
 
 ** 内容及要求: **
 
@@ -302,7 +302,7 @@ def testAll()
 
 
 <a name="assign1"></a>
-### Python作业 Assign1 (Nov/16/2016)
+### Python作业 Assign1 (Nov/15/2016)
 
 ** 内容及要求: **
 
@@ -318,12 +318,12 @@ planets.py要符合基本的python [编程规范](python.md#style).
 
 **提交截止:**
 
-2016年11月29日23:59
+2017年11月28日23:59
 
 ---
 
 <a name="lab3"></a>
-### Python练习 Lab3 (Nov/16/2016)
+### Python练习 Lab3 (Nov/15/2017)
 
 ** 内容及要求: **
 
@@ -333,7 +333,7 @@ planets.py要符合基本的python [编程规范](python.md#style).
 
 
 <a name="lab2"></a>
-### Python练习 Lab2 (Nov/9/2016)
+### Python练习 Lab2 (Nov/8/2017)
 
 ** 内容及要求: **
 
@@ -344,7 +344,7 @@ planets.py要符合基本的python [编程规范](python.md#style).
 ---
 
 <a name="lab1"></a>
-### Python练习 Lab1 (Nov/2/2016)
+### Python练习 Lab1 (Nov/1/2017)
 
 ** 内容及要求: **
 
@@ -353,7 +353,7 @@ planets.py要符合基本的python [编程规范](python.md#style).
 ---
 
 <a name="lab0"></a>
-### Python练习 Lab0 (Oct/26/2016)
+### Python练习 Lab0 (Oct/25/2017)
 
 !!! note ""
     注: 本次作业不需提交
@@ -381,7 +381,7 @@ planets.py要符合基本的python [编程规范](python.md#style).
 ---
 
 <a name="ihw5"></a>
-### 概论作业5 (Oct/19/2016)
+### 概论作业5 (Oct/18/2017)
 
 1. 北京大学某单位的某台机器IP地址为162.105.203.160, 子网掩码为255.255.255.128，
 
@@ -407,7 +407,7 @@ planets.py要符合基本的python [编程规范](python.md#style).
 
 **提交截止:**
 
-2016年11月1日23:59
+2017年10月31日23:59
 
 ** 如何测试html **
 
@@ -430,7 +430,7 @@ python3 -m http.server 9090
 ----
 
 <a name="ihw4"></a>
-### 概论作业4 (Oct/12/2016)
+### 概论作业4 (Oct/11/2017)
 
 回答下述问题
 
@@ -446,12 +446,12 @@ python3 -m http.server 9090
 
 **提交截止:**
 
-2016年10月18日23:59
+2017年10月17日23:59
 
 <hr>
 
 <a name="ihw3"></a>
-### 概论作业3 (Sep/28/2016)
+### 概论作业3 (Sep/27/2017)
 
 **内容:**
 
@@ -467,13 +467,13 @@ python3 -m http.server 9090
 
 **提交截止:**
 
-2016年10月9日23:59
+2017年10月10日23:59
 
 <hr>
 
 
 <a name="ihw2"></a>
-### 概论作业2 (Sep/21/2016)
+### 概论作业2 (Sep/20/2017)
 
 **内容:**
 
@@ -493,12 +493,12 @@ python3 -m http.server 9090
 
 **提交截止:**
 
-2016年9月27日23:59
+2017年9月26日23:59
 
 <hr>
 
 <a name="ihw1"></a>
-### 概论作业1 (Sep/14/2016)
+### 概论作业1 (Sep/13/2017)
 
 !!! note ""
     注: 本次作业不需提交
