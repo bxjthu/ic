@@ -8,7 +8,7 @@
 
 序号 | 时间  |  内容 | 课件  | 作业
 -- | --- | ---------- | -- | ----
-01 | 2017年9月13日 | 课程介绍 | [HTML5](01.intro/index.html) [PDF](http://sei.pku.edu.cn/~caodg/course/files/ic/01.intro.pdf) | [作业1](assign/index.html#ihw1)
+01 | 2017年9月13日 | 课程介绍 | [HTML5](01.intro/index.html) | [作业1](assign/index.html#ihw1)
 
 
 <!--

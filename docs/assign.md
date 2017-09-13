@@ -1,7 +1,10 @@
 作业
 ===
 
+
 ---
+
+<!--
 
 <a name="lab8"></a>
 ### Python练习 Lab8 (Dec/20/2017)
@@ -497,6 +500,8 @@ python3 -m http.server 9090
 
 <hr>
 
+-->
+
 <a name="ihw1"></a>
 ### 概论作业1 (Sep/13/2017)
 
@@ -509,7 +514,8 @@ python3 -m http.server 9090
 
 2. 拥有一个可靠的邮件帐号, 学习写邮件的礼仪，养成每天定时收发邮件的习惯.
 
-3. 会用办公软件编写文档、胶片.
+3. 在 [https://github.com](https://github.com) 上注册一个账号, 了解如何使用
+   [git](https://git-scm.com), 学习如何利用 github .
 
 **提交:**
 
