@@ -235,15 +235,15 @@ C. Babbage (1791-1871): 英国博学家, 提出了.ored[可编程计算机]的�
 之后开展通用可编程的机械式计算机---分析机(Analytical Engine)的发明, 用穿孔卡片技术输入, 有很多设计和现代计算机相近.
 
 .left-column[
-<img src="images/difference.jpg" width=300>
+<img src="images/difference.jpg" height=200>
 
 Difference engine 
 ]
 
 .right-column[
-<img src="images/analytical.jpg" width=360>
+<img src="images/320px-Babbages_Brain.jpg" height=200 style="margin: 0px 80px">
 
-Analytical Engine
+Charles Babbage's brain at The Science Museum
 ]
 
 ---
@@ -253,10 +253,13 @@ Analytical Engine
 Augusta Ada King, Countess of Lovelace (1815-52): 数学家, Babbage研究分析机的助手, 她为分析机设计了计算 "Bernoulli numbers"的算法, 强调存储程序和数据的重要性, 提出了变量、循环、子程序的概念, 她被认为是"*the first computer programmer*", 也是第一个对计算机广泛应用前景作出预言的人.
 
 
-&nbsp;
-&nbsp;
+.left-column[
+<img src="images/Byron.jpg" width=200 style="margin: 0px 80px">
+]
 
-<img src="images/Byron.jpg" width=200 style="margin: 0px 200px">
+.right-column[
+<img src="images/382px-Ada_Lovelace_color.svg.png" width=200 style="margin: 0px 80px">
+]
 
 ---
 
@@ -428,12 +431,19 @@ boolean g(program)
 
 ## Von Neumann 体系结构
 
-John von Neumann(1903-1957) 考察了ENIAC的后继型号EDVAC后, 于1946年发表了一篇论文
+John von Neumann(1903-1957) : 数学家, 物理学家, 发明家, 计算机科学家, 博学家. 
+对数学, 物理学, 经济学, 计算学, 统计学等多个学科做出了杰出贡献.
+
+John von Neumann 考察了ENIAC的后继型号EDVAC后, 于1946年发表了一篇论文
 , 给出了计算机内部结构模型与处理过程, 提出了 .ored[存储程序] 的思想
 
-&nbsp;
+.r-side[
+<img src="images/460px-JohnvonNeumann-LosAlamos.gif" height=260 style="margin: 0px 10px">
+]
 
-<img src="images/vonneumann.jpg" width=500 style="margin: 0px 50px">
+.l-side[
+<img src="images/vonneumann.jpg" height=300 style="margin: 0px 00px">
+]
 
 ---
 
