@@ -250,7 +250,7 @@ Analytical Engine
 
 ## Babbage的支持者: Ada Byron
 
-Augusta Ada King, Countess of Lovelace (1815-52): 数学家, Babbage研究分析机的助手, 她为分析机设计了计算 "Bernoulli numbers"的算法, 她因此被认为是"*the first computer programmer*".
+Augusta Ada King, Countess of Lovelace (1815-52): 数学家, Babbage研究分析机的助手, 她为分析机设计了计算 "Bernoulli numbers"的算法, 强调存储程序和数据的重要性, 提出了变量、循环、子程序的概念, 她被认为是"*the first computer programmer*", 也是第一个对计算机广泛应用前景作出预言的人.
 
 
 &nbsp;
