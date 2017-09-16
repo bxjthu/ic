@@ -8,7 +8,7 @@ pages:
 - Guide: 
     - Command Tools: cmd.md
     - Python Env: python.md
-    - Git \& Github: git-intro.md
+    - Git & Github: git-intro.md
 - Schedule: schedule.md
 - Assignment: assign.md
 
