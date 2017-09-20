@@ -8,6 +8,8 @@
 
 序号 | 时间  |  内容 | 课件  | 作业
 -- | --- | ---------- | -- | ----
+03 | 2016年9月27日 | 计算机硬件 |  [HTML5](03.hardware/index.html) | [作业3](assign/index.html#ihw3)
+02 | 2016年9月20日 | 数据及其表示 |  [HTML5](02.data/index.html) | [作业2](assign/index.html#ihw2)
 01 | 2017年9月13日 | 课程介绍 | [HTML5](01.intro/index.html) | [作业1](assign/index.html#ihw1)
 
 
@@ -39,6 +41,4 @@
 06 | 2016年10月25日 | 1. The way of the program | [Notebook](notebooks/01.intro.ipynb) |[Lab0](assign/index.html#lab0)
 05 | 2016年10月18日 | 网络 | [HTML5](05.network/index.html) |[作业5](assign/index.html#ihw5)
 04 | 2016年10月11日 | 操作系统 |  [HTML5](04.os/index.html) | [作业4](assign/index.html#ihw4)
-03 | 2016年9月27日 | 计算机硬件 |  [HTML5](03.hardware/index.html) | [作业3](assign/index.html#ihw3)
-02 | 2016年9月20日 | 数据及其表示 |  [HTML5](02.data/index.html) | [作业2](assign/index.html#ihw2)
 -->

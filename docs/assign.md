@@ -453,6 +453,8 @@ python3 -m http.server 9090
 
 <hr>
 
+-->
+
 <a name="ihw3"></a>
 ### 概论作业3 (Sep/27/2017)
 
@@ -466,7 +468,7 @@ python3 -m http.server 9090
 
 **提交:**
 
-在线提交, 或者以doc,pdfl 附件提交到 [北京大学课程网](http://course.pku.edu.cn)
+通过github提交 一个 ".md" [Markdown 格式](https://help.github.com/articles/basic-writing-and-formatting-syntax/) 的文本文件,  方法见 [Homework Howto](homework.md)
 
 **提交截止:**
 
@@ -492,15 +494,14 @@ python3 -m http.server 9090
 
 **提交:**
 
-在线提交, 或者以doc,pdfl 附件提交到 [北京大学课程网](http://course.pku.edu.cn)
+通过github提交 一个 ".md" [Markdown 格式](https://help.github.com/articles/basic-writing-and-formatting-syntax/) 的文本文件,  方法见 [Homework Howto](homework.md)
 
 **提交截止:**
 
-2017年9月26日23:59
+2017年10月10日23:59
 
 <hr>
 
--->
 
 <a name="ihw1"></a>
 ### 概论作业1 (Sep/13/2017)
@@ -515,7 +516,9 @@ python3 -m http.server 9090
 2. 拥有一个可靠的邮件帐号, 学习写邮件的礼仪，养成每天定时收发邮件的习惯.
 
 3. 在 [https://github.com](https://github.com) 上注册一个账号, 了解如何使用
-   [git](https://git-scm.com), 学习如何利用 github .
+   [git](https://git-scm.com), 学习[如何利用 github](git-intro.md) .
+
+4. 学习掌握如何编辑 [Markdown 格式](https://help.github.com/articles/basic-writing-and-formatting-syntax/) 的文本文件.
 
 **提交:**
 
@@ -524,5 +527,3 @@ python3 -m http.server 9090
 **提交截止:**
 
 无
-
-
