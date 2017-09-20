@@ -82,22 +82,6 @@ http://sei.pku.edu.cn/~caodg/course/ic
 
 ---
 
-## 字符代码-Unicode
-
-**Unicode**: 多语言编码的工业标准
-
-- 17个代码平面(plane), 每个平面`\(2^{16}=65536\)`个符号,目前已包含超过100000个符号
-
-- 平面0(0000–FFFF): Basic Multilingual Plane (BMP)
-
-- 主要的Unicode代码编码方法
-
-    - UTF-8: 1-4个字节, 可变长编码, 兼容 ASCII
-
-    - UTF-16: 2或4个字节, Windows NT, Java采用
-
----
-
 ## 汉字编码字符集
 
 
@@ -111,6 +95,23 @@ http://sei.pku.edu.cn/~caodg/course/ic
 - CJK大字符集, 包含20902个汉字, 中日韩政府、国际标准化组织推动
 
 - GB18030--2000, 完全覆盖并替代GB2312, 包括27484个汉字, 目前的国家标准
+
+---
+
+
+## 字符代码-Unicode
+
+**Unicode**: 多语言编码的工业标准
+
+- 17个代码平面(plane), 每个平面`\(2^{16}=65536\)`个符号,目前已包含超过100000个符号
+
+- 平面0(0000–FFFF): Basic Multilingual Plane (BMP)
+
+- 主要的Unicode代码编码方法
+
+    - UTF-8: 1-4个字节, 可变长编码, 兼容 ASCII
+
+    - UTF-16: 2或4个字节, Windows NT, Java采用
 
 ---
 
