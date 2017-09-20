@@ -170,6 +170,7 @@ ALU: CPU 中的主要部件, 进行算术运算, 逻辑运算与移位运算
 
 3. 计算 x 的二进制位模式中有多少个 1
 
+.footnote[.red[*] http://graphics.stanford.edu/~seander/bithacks.html]
 ---
 
 ## 寄存器, processor register
