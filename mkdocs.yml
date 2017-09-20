@@ -9,6 +9,7 @@ pages:
     - Command Tools: cmd.md
     - Python Env: python.md
     - Git & Github: git-intro.md
+    - Homework Howto: homework.md
 - Schedule: schedule.md
 - Assignment: assign.md
 

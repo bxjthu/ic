@@ -40,5 +40,5 @@
 05 | 2016年10月18日 | 网络 | [HTML5](05.network/index.html) |[作业5](assign/index.html#ihw5)
 04 | 2016年10月11日 | 操作系统 |  [HTML5](04.os/index.html) | [作业4](assign/index.html#ihw4)
 03 | 2016年9月27日 | 计算机硬件 |  [HTML5](03.hardware/index.html) | [作业3](assign/index.html#ihw3)
-02 | 2016年9月20日 | 数据及其表示 |  [HTML5](02.data/index.html) [PDF](http://sei.pku.edu.cn/~caodg/course/files/ic/02.data.pdf) | [作业2](assign/index.html#ihw2)
+02 | 2016年9月20日 | 数据及其表示 |  [HTML5](02.data/index.html) | [作业2](assign/index.html#ihw2)
 -->
