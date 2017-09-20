@@ -10,7 +10,7 @@
 
 ## 2. 分支（Fork）作业仓库
 
-注册后登录。在搜索框搜索"**ichw**"，找到“**FirmlyReality/ichw**”这个仓库。或者点击 [https://github.com/FirmlyReality/ichw](https://github.com/FirmlyReality/ichw) 可以直接跳转到该作业仓库的首页（如图）。
+注册后登录。在搜索框搜索"**ichw**"，找到课程首页助教的仓库, 假定助教的github账号为 "FirmlyReality", 则找到 “**FirmlyReality/ichw**”这个仓库。或者点击 [https://github.com/FirmlyReality/ichw](https://github.com/FirmlyReality/ichw) 可以直接跳转到该作业仓库的首页（如图）。
 
 ![](images/ichw-index.jpg)
 

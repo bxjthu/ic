@@ -21,7 +21,8 @@
 
 助教:
 
-- 朱瑜坚 (18811464128 AT 163.com )
+- [朱瑜坚](https://github.com/FirmlyReality) (18811464128 AT 163.com ,
+  github: FirmlyReality)
 
 - 何卓论 (juicehe AT pku.edu.cn )
 
