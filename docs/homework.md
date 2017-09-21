@@ -42,17 +42,36 @@ git clone <服务器端仓库URL>
 
 **注意：**Fork出来的仓库在名字底下会有一行小字“Forked from xxxx/xx”，注意与主库进行区别，不要搞错URL。
 
-按照上图中的URL，即可输入下述命令来克隆仓库到本地，同学们请替换成自己仓库的URL。
+假定你的github 账号是 **pkuer01**, Fork出来之后的仓库是
+**https://github.com/pkuer01/ichw** . 后面的操作请将 **pkuer01** 替换为
+自己的github 账号
+
+在命令行下, 输入下述命令来克隆仓库到本地
 
 ```
-git clone https://github.com/Firmlyzhu/ichw
+git clone https://github.com/pkuer01/ichw
 ```
 
 自己分支(Fork)出来的仓库首页可以在github首页上找到并进入（如下图，需要登录）。
 
 ![](images/ichw-forkrepo.png)
 
-克隆之后，为了以后更新方便，需要将本地仓库与主库进行关联。在命令行中，进入到仓库的根目录后，输入下述命令即可进行关联：
+在命令行下，克隆之后，Windows 输入 **dir** 命令, Linux/MacOS 输入 **ls** 命令, 发现本地新出现了一个名为 **ichw** 的目录, 这就是克隆的本地仓库。为了以后更新方便，需要将本地仓库与主库进行关联。
+
+首先, 在命令行中，进入到仓库的根目录, 请记住该目录的位置。
+
+```
+cd ichw
+```
+
+输入 **git remote** 命令观察库的情况, 可能输出如下
+
+```
+origin	https://github.com/pkuer01/ichw (fetch)
+origin	https://github.com/pkuer01/ichw (push)
+```
+
+然后，输入下述命令即可进行关联：
 
 ```
 git remote add upstream https://github.com/FirmlyReality/ichw
@@ -62,7 +81,7 @@ git remote add upstream https://github.com/FirmlyReality/ichw
 
 前面4步为首次提交作业需要做的工作，如果之前第一次提交作业时已经完成了前面4步，那之后每次提交作业只需从第5步做起。
 
-每次对本地仓库进行修改前，都需要与主库进行同步。在命令行中，进入到本地仓库的根目录后，使用下面命令与主库进行同步：
+每次对本地仓库进行修改前，都需要与主库进行同步。在命令行中，进入到本地仓库的根目录 (如何进入, 请参阅[使用命令行工具](cmd.md))，使用下面命令与主库进行同步：
 
 ```
 git pull upstream master
