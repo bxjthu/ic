@@ -35,9 +35,7 @@
 
 快速链接:
 
-[课程简介](intro.md) [讲义](schedule.md) [作业](assign.md) [如何交作业](homework.md)
-
-[Python](python.md) [命令行](cmd.md) [git&github](git-intro.md)
+[课程简介](intro.md) [讲义](schedule.md) [作业](assign.md) [如何交作业](homework.md) [Python](python.md) [命令行](cmd.md) [git&github](git-intro.md)
 
 
 <!--
