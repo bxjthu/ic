@@ -28,6 +28,8 @@ sudo apt-get install git
 
 下载后进行安装，安装时所有安装选项都按默认选项即可完成安装。
 
+Mac OS一般自带git，不需要再安装。
+
 ## 4. 使用git克隆作业仓库到本地
 
 下面的很多操作需要大家熟悉[命令行操作](cmd.md)，请大家课后练习。
@@ -38,7 +40,7 @@ sudo apt-get install git
 git clone <服务器端仓库URL>
 ```
 
-自己的服务器端仓库URL也就是自己之前Fork出的作业仓库首页，如下图。
+将上述“<服务器端仓库URL>”替换成自己的服务器端仓库URL，替换后不需要加尖括号，这个URL也就是自己之前Fork出的作业仓库首页，如下图。
 
 ![](images/ichw-cloneurl.png)
 
@@ -66,7 +68,7 @@ git clone https://github.com/pkuer01/ichw
 cd ichw
 ```
 
-输入 **git remote** 命令观察库的情况, 可能输出如下
+输入 **git remote** 命令观察库的情况, 可能输出如下（windows系统的输出可能不同）
 
 ```
 origin	https://github.com/pkuer01/ichw (fetch)
@@ -107,6 +109,8 @@ git push origin master
 
 作业文件名为“学号.后缀”，比如学号为1700010001的同学，第一次作业放到intro1文件夹中，取名为"1700010001.md"。若要提交多个文件的同学，请创建一个名为自己学号的文件夹，然后在其中放置自己的作业文件。
 
+Markdown文件后缀为md，可用“记事本”等文本编辑器进行编辑，但为了预览显示效果，可以使用专门的markdown编辑器来编辑，windows下常用的markdown编辑器，如:[Markdown Pad](http://markdownpad.com/download.html)(点击可以下载)。另，Markdown编辑器在windows下可能需要安装[Awesomium 1.6.6 SDK](http://markdownpad.com/download/awesomium_v1.6.6_sdk_win.exe)(点击可下载)，才能正常显示效果。
+
 作业文件放好后，使用`git add <文件名>`命令将新文件放入暂存区，如：
 
 ```
@@ -129,7 +133,7 @@ git add .
 
 更多git的功能和命令，如：版本回退、分支管理等等，请百度“git教程”。
 
-## 6. 提交修改到服务器端的个人仓库
+## 7. 提交修改到服务器端的个人仓库
 
 加入暂存区后，输入下述命令在**本地**确认提交修改：
 
@@ -139,6 +143,18 @@ git commit -m "此次修改的描述"
 
 引号中的内容为本次修改的描述，比如改了哪些文件，添加了什么功能等等。这个内容可以使用`git log`查看到。
 
+如果是首次提交，系统会提示你键入以下两行命令提交自己的邮箱和用户名：
+
+```
+git config --global user.email "your@example.com"
+```
+
+```
+git config --global user.name "Your usernmae"
+```
+
+将上述两行中引号中的内容分别替换成自己的邮箱和用户名后输入，然后再次输入`git commit -m "xxx"`才可以提交成功。
+
 然后使用下面命令，将此次修改推送更新到服务器端的人仓库：
 
 ```
@@ -147,7 +163,7 @@ git push origin master
 
 输入上述命令后，需要输入github的账号密码进行登录。推送到服务器端的个人库后才可以更新到主库。
 
-## 7. 将作业提交到主库
+## 8. 将作业提交到主库
 
 作业提交到服务器端的个人仓库后（就是每个人Fork主库出来的仓库），可以在自己的个人仓库首页点击如下蓝框中的按钮发起pull request。个人仓库首页如何进入可以参见第4步。
 
