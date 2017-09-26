@@ -60,7 +60,7 @@ git clone https://github.com/pkuer01/ichw
 
 ![](images/ichw-forkrepo.png)
 
-在命令行下，克隆之后，Windows 输入 **dir** 命令, Linux/MacOS 输入 **ls** 命令, 发现本地新出现了一个名为 **ichw** 的目录, 这就是克隆的本地仓库。为了以后更新方便，需要将本地仓库与主库进行关联。
+在命令行下，克隆之后，Windows 输入 **dir** 命令, Linux/MacOS 输入 **ls** 命令, 发现本地新出现了一个名为 **ichw** 的目录, 这就是克隆的本地仓库。为了以后更新方便，需要将本地仓库与主库(助教的库)进行关联。
 
 首先, 在命令行中，进入到仓库的根目录, 请记住该目录的位置。
 
@@ -75,7 +75,7 @@ origin	https://github.com/pkuer01/ichw (fetch)
 origin	https://github.com/pkuer01/ichw (push)
 ```
 
-然后，输入下述命令即可进行关联：
+然后，输入下述命令即可进行关联(请将**FirmlyReality**替换为助教的id)：
 
 ```
 git remote add upstream https://github.com/FirmlyReality/ichw
