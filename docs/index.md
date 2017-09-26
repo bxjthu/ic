@@ -33,6 +33,13 @@
 
 ----
 
+快速链接:
+
+[课程简介](intro.md) [讲义](schedule.md) [作业](assign.md) [如何交作业](homework.md)
+
+[Python](python.md) [命令行](cmd.md) [git&github](git-intro.md)
+
+
 <!--
 [作业1 分配结果发布](hw1-pair.md) . Mar 17, 2016
 [作业2 发布](hw.md#作业2). Mar 17, 2016

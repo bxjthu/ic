@@ -35,13 +35,13 @@
 ** 计算机科学导论作业: 20分 **
 
   * 每周课后布置练习与作业
-  * 作业通过[北大课程网](http://course.pku.edu.cn) 在线提交，没有北大账号的同学请通过邮件发送给助教
+  * 作业通过[github](https://github.com) 在线提交，没有github账号的同学请注册并学习[git和github的使用](git-intro.md), 并学习[如何在github中提交作业](homework.md)
   * 作业必须独立完成, 按时提交, 延期提交成绩 7 折
 
 ** Python作业:  30分 **
 
   * 练习(Lab): 练习是微小型的题目, 目的是帮助学生掌握单个知识点, 每次课布置一次, 总分 15 分. 通过[OpenJudge](http://ic.openjudge.cn) 在线提交，请用真实姓名注册，以便于统计成绩
-  * 作业(Assignment): 作业是较综合的题目, 目的是学习解决真实问题, 每两次课布置一次, 总分 15 分. 作业在[北大课程网](http://course.pku.edu.cn) 在线提交
+  * 作业(Assignment): 作业是较综合的题目, 目的是学习解决真实问题, 每两次课布置一次, 总分 15 分. 作业在[github](https://github.com)中 [在线提交](homework.md)
 
 <div class="alert alert-info">
 注意: 所有作业Python必须自己完成, 不得上网寻找答案, 不得向他人寻求答案.
