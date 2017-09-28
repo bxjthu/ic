@@ -1,3 +1,3 @@
 # Introduction to Computation with Python
 
-[Course info][docs/index.md]
+[Course info](docs/index.md)
